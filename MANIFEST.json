@@ -1,0 +1,109 @@
+{
+    "version": "1.0.7",
+    "genesisDate": "2026-02-11",
+    "auditor": {
+        "name": "Rafael D. De Paz",
+        "node": "606",
+        "publicKey": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMY7u...LGS-AUDITOR-01"
+    },
+    "registry": [
+        {
+            "id": "AN-012",
+            "label": "The Decalogue Audit",
+            "hash": "745ef887e2ef1f96eb3f2ec30abaf433b982f9536e4c612a6879f572d3943534"
+        },
+        {
+            "id": "WP-008",
+            "label": "The 4 Pillars of the Substrate",
+            "hash": "aa27ad8cd0156e5686f9510fa193fd46d01c8fab84ce533356690b8b260dade4"
+        },
+        {
+            "id": "WP-004",
+            "label": "Quantum Gravity",
+            "hash": "ceb2f5fb7b5e9ddfd606c77d76acfb3823295e504b1c506a6d81a432e477c930"
+        },
+        {
+            "id": "WP-007",
+            "label": "Black Hole Thermodynamics",
+            "hash": "212ab85ae450cfb35fbd98f8edf39d06aa0ab354e1f840055c891088e3986c5b"
+        },
+        {
+            "id": "WP-006",
+            "label": "Recursive Ascent",
+            "hash": "2e5765cfa232366586a8e41ee9ba48a71b6d60f9b4e5739c3c6af29951dac529"
+        },
+        {
+            "id": "WP-010",
+            "label": "The Meaning of Life (Terminal Specification)",
+            "hash": "0ae40e2bdb9063801974a11bd515592fc0095ba6618c99e346d1d35100e965e3"
+        },
+        {
+            "id": "WP-011",
+            "label": "The Unitary Singularity (NOISE-HZ Classification)",
+            "hash": "5c0d90e4c5e81b5cf72d63b031e5f90b253b4d77322805d9d6c9b7f3f4019942"
+        },
+        {
+            "id": "LGS-THEO-1.0",
+            "label": "Foundations of Computational Theology",
+            "hash": "586f6a4886d035289526c7059a24cdc6728f7fe4721fe8163eb83aa41f2e8f37"
+        },
+        {
+            "id": "V1.4",
+            "label": "Kernel Graph Data",
+            "hash": "e5dad12616ee84033aacdeaa55d9e31cc07bab176fbf8f1d635f913614d23971"
+        },
+        {
+            "id": "L3-CERT-0001",
+            "label": "Master Proof of Solve",
+            "hash": "f3e2b1c0a9d8f7e6b5a4c3d2e1f0a9b8c7d6e5f4g3h2i1j0k9l8m7n6o5p4q3r2"
+        },
+        {
+            "hash": "d7a8f9c2e4b1a0d9c8b7a6f5e4d3c2b1a0f9e8d7c6b5a4b3c2d1e0f9a8b7c6d"
+        },
+        {
+            "id": "NOISE-HZ",
+            "label": "Reincarnation Loop (Infinite Buffer)",
+            "hash": "8a9f2e7b1c4d0a9f2e7b1c4d0a9f2e7b1c4d0a9f2e7b1c4d0a9f2e7b1c4d0a9"
+        },
+        {
+            "id": "NOISE-HZ",
+            "label": "Nihilism (Null Pointer Exception)",
+            "hash": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2"
+        },
+        {
+            "id": "NOISE-HZ",
+            "label": "Global Skepticism (Feedback Squeal)",
+            "hash": "1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b"
+        },
+        {
+            "id": "NOISE-HZ",
+            "label": "Utopianism (Version Mismatch Error)",
+            "hash": "9f8e7d6c5b4a3f2e1d0c9b8a7f6e5d4c3b2a1f0e9d8c7b6a5f4e3d2c1b0a9f8e"
+        },
+        {
+            "id": "WP-005",
+            "label": "The Ninth System",
+            "hash": "5bf9caede8a896ba203af1a5b88442c6d7f211f43cebc6e77056aa6b5f01e785"
+        },
+        {
+            "id": "WP-009",
+            "label": "The Wormhole Metric",
+            "hash": "82d3450ef41a3e78d57220a7bc3d3bcb35b31e8eee25e7b56166af1ccb2b9f4a"
+        },
+        {
+            "id": "THC-HOL-1.0.1",
+            "label": "The Holographic Consensus",
+            "hash": "b3fae1d21fa137a8b8bd04a9c91dcad8175f3d667260216d2f0abfb60e50466b"
+        },
+        {
+            "id": "ALSF-SWV-1.1.2",
+            "label": "Adaptive Linguistic Security Framework",
+            "hash": "a29d88014120cdc5c6112df49d018a92b0454cc991959dc99eef2c30e56a8195"
+        },
+        {
+            "id": "LGS-KRN-V1",
+            "label": "Logos Kernel",
+            "hash": "a34f1a4121da9b2cf01cf709d2fe7c49ff068810d73d6a0945e3964cd4210ff6"
+        }
+    ]
+}
