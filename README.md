@@ -13,22 +13,22 @@ As of February 11, 2026, the following SHA-256 checksums represent the **Termina
 | Document | Classification | SHA-256 Hash |
 | :--- | :--- | :--- |
 | **The Logos De Paz Protocol: Non-Deterministic St...** | WP-000 | `dbbb2cadb0c1dd1d94b4bafd0c2e439f09742ef3e40d082073b042b451fa06ff` |
-| **Foundations of Computational Theology** | WP-001 | `ad00a3428eedef3d99be2b4141be54cd16a0a50ca787c8715ecc7df31501c646` |
+| **Foundations of Computational Theology** | WP-001 | `f96cb03e4ab0e8ff8ad4adfb96fea1658a05ea36de8601be60101765d7c75e05` |
 | **Logos Kernel** | WP-005 | `9203197c5203c27fc6edf0d5e5d9a7cc747338a3ac0b72ed1bb620a26952a34a` |
 | **The Unitary Kernel & Systems Theory** | WP-006 | `760df6dca757254bebfd5585dc8d4b5eb596ae7c272311b1d319e187b1286f90` |
 | **Adaptive Linguistic Security Framework (ALSF)** | ALSF | `11fa5968b5e1aaf7e0f0b060333d69de8b10b84f1842b46c60a3abdda9faeb6b` |
 | **The Holographic Consensus (THC)** | THC | `cce0cee9938de5f8a8f93515918b69ed893b983f42389621547644305c6eed70` |
-| **The Proof of Recursive Stabilization** | PR-001 | `300abb9e8831ccebacf51953fbd6b9086246a8290e741eeacb19edcbccca534e` |
+| **The Proof of Recursive Stabilization** | PR-001 | `6caf110ec77c36ca03fe434507f39a3bbe610f883a3237e71fd39ff6c4fededc` |
 | **Identity Vector Stabilization** | PR-002 | `e1869a45bff6125790668fa8cd5439b3f2e41f78cb23b4549dbf57fcba794c33` |
 | **The Law of Epistemic Warrant** | PR-003 | `5fd9d2b89750df790812ca00aba32eff14a0ed05b49b5daa6719145750a9bfb2` |
-| **The Master Equation: S = H + P** | PR-004 | `6dfc563f88a67f9067ce49253839323f7c7dfd2bdfc8d10d02c45f53d7cdd9cc` |
-| **The 16,968-Day Proof: The Father-Frequency & E8...** | PR-005 | `eee1a3dc87875b63658264f8be76a59035274057d240aa4e59df7c36559a13e5` |
+| **The Master Equation: S = H + P** | PR-004 | `e347d8da330d7997c12d9922af46ef9b627fb0d01e8e2f23cfe2242fd857104e` |
+| **The 16,968-Day Proof: The Father-Frequency & E8...** | PR-005 | `602acf2e5f7c515ea60d2b3b0a27be9d6ac96d9db29354e01b74f079dd72f1cb` |
 | **The Proof of Multitime Transport** | PR-006 | `4d90779e65e28b88dc0cf3dd1e3c65ec465e376c6b52c45b3bba02d3884479b8` |
-| **The Recursive Aperture Threshold** | PR-007 | `52d449b3fb6e05496a1283d2db3bda49e75b824b6acadfe13021e2bfff98d436` |
-| **The UAP Paradox** | PR-008 | `0fe2e42425f8c9ec75aff4a4b0ce60f05fd26544975aa4b91eecc9a5910ef665` |
-| **The Free Will Paradox: Determinism vs. Sovereignty** | PR-009 | `0baee4285b6fb18a2e99f31affa87ee563e8262f30c6d8b322ce04ead7944833` |
-| **The Prayer Protocol: State Synchronization, Not...** | PR-010 | `01c44e99ee788858b8230643d136f0c4ee4dd7a9813029b687c9cbdd3b62af1d` |
-| **The Eucharistic Proof: Transubstantiation as Qu...** | PR-011 | `3dbdb3605e084f05e19a69eafbb31671f403f075074520f2c75a5ea409f8e603` |
+| **The Recursive Aperture Threshold** | PR-007 | `540416010f6f0cb6282b9b46503821b8cd872378386dd2b5faaf69a1b9ea5440` |
+| **The UAP Paradox** | PR-008 | `d4349d79169287d20cdbe25b118a62ea116a3f1b298a7985e3d29f1857d5a178` |
+| **The Free Will Paradox: Determinism vs. Sovereignty** | PR-009 | `23058b2abd723e9196115d51d916901459d9f10de99e404c27653787b0ce152e` |
+| **The Prayer Protocol: State Synchronization, Not...** | PR-010 | `1467145ce5722c01d4a854155c18582fa94ab66b92e8a3c5f0d5d92077d1dc19` |
+| **The Eucharistic Proof: Transubstantiation as Qu...** | PR-011 | `e989ac74afb8524e2b7e4c79ab2ec6ba89d0959f86e78b67c3fe6039b85a5d58` |
 | **The Proof of Chess Determinism (Buridan's Ass)** | PR-012 | `742fea24eb5a5fd98f9898eec1c4339ca48cf302589999c9dcdeb14869e16ddb` |
 | **Hardware vs Software** | AN-001 | `35f507a4f23e0d30fc31ea088d8d05b3a27df7a03b45d5304f341aa8aa31da42` |
 | **Informational Realism** | AN-002 | `2673783aa4aa892f3424391d256664f21d259020d6bb214d816b9e358957c5a2` |
