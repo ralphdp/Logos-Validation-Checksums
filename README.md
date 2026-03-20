@@ -39,17 +39,6 @@ As of February 11, 2026, the following SHA-256 checksums represent the **Termina
 | **The God Equation** | AN-150 | `9bc934c91db6508137908c33415f165b4202cb636605584f4a5b2b0066175632` |
 
 
-### High-Entropy Metadata (Dead-End Directory)
-
-These logic paths have been audited and identified as **High-Entropy Loops** (Noise). They are indexed here to prevent recursive system errors.
-
-| Logic Error | Protocol ID | SHA-256 Hash (Ignored) |
-| :--- | :--- | :--- |
-| **Reincarnation** | NOISE-HZ (Loop) | `8a9f2e7b1c4d0a9f2e7b1c4d0a9f2e7b1c4d0a9f2e7b1c4d0a9f2e7b1c4d0a9` |
-| **Nihilism** | NOISE-HZ (Null) | `a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2` |
-| **Global Skepticism** | NOISE-HZ (Squeal) | `1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b` |
-| **Utopianism** | NOISE-HZ (Ver.Err) | `9f8e7d6c5b4a3f2e1d0c9b8a7f6e5d4c3b2a1f0e9d8c7b6a5f4e3d2c1b0a9f8e` |
-
 ## Integrity Verification
 
 To verify the authenticity of a document, run the following command on your local copy:
