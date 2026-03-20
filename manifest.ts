@@ -30,17 +30,17 @@ export const MANIFEST = {
         {
                 "id": "AN-038",
                 "label": "Divine Concurrency",
-                "hash": "89be7e63df9d99dfb61d9b5c83c7d688221f22a97664228ac5caf3acb7074fff"
+                "hash": "6900daebd119b2521f95218ee5b9896f4c3d4d12d3813315827e34036c7f5460"
         },
         {
                 "id": "PR-011",
                 "label": "The Eucharistic Proof: Transubstantiation as Quantum State Collapse",
-                "hash": "d44a2e3deffc7b60b81a81ee854dc7eb7e4341f39e438de95db3636fe6cc1c4d"
+                "hash": "85cad9ad8a1f3f80ba45baf1b977848629833ede4abaeee9d3f4a2010f38a5c2"
         },
         {
                 "id": "AN-107",
-                "label": "Extraordinary Claims Triage (UAP / ‘Ancient Aliens’ / Non‑Human Actors)",
-                "hash": "69afa8601ffa5fa5859455a2b83075e559a4a0981f08bc22f683762ecdb73fc0"
+                "label": "Extraordinary Claims Triage (UAP / Non-Human Actors)",
+                "hash": "ab19430e0380a0d6fc39cce71cbdef91f3e2ee07ebb8b827fd606fbf2a5b4864"
         },
         {
                 "id": "WP-001",
@@ -83,9 +83,9 @@ export const MANIFEST = {
                 "hash": "07baa6119f6e94343d13b7ac3aa247317bd9d7266f4df1452f39eb3da595692a"
         },
         {
-                "id": "WP-005",
-                "label": "logos-kernel",
-                "hash": "cf9c97fd37d3058bde597e48c38dfad6056fc0a950927c6fb7e336486a53affe"
+                "id": "LGS-KRN-V1",
+                "label": "Logos Kernel (Unified Specification)",
+                "hash": "99823803d6f3f879dd279a804a442c8d031841aa73b960dcafe465f1664953b5"
         },
         {
                 "id": "PR-004",
