@@ -13,7 +13,7 @@ As of February 11, 2026, the following SHA-256 checksums represent the **Termina
 | Document | Classification | SHA-256 Hash |
 | :--- | :--- | :--- |
 | **The Logos De Paz Protocol: Non-Deterministic St...** | WP-000 | `dbbb2cadb0c1dd1d94b4bafd0c2e439f09742ef3e40d082073b042b451fa06ff` |
-| **Foundations of Computational Theology** | WP-001 | `916ac6e236581258053fa7b04e8d4be9752644c7dfa496f36135ad1293cfa163` |
+| **Foundations of Computational Theology** | WP-001 | `ad00a3428eedef3d99be2b4141be54cd16a0a50ca787c8715ecc7df31501c646` |
 | **Logos Kernel** | WP-005 | `9203197c5203c27fc6edf0d5e5d9a7cc747338a3ac0b72ed1bb620a26952a34a` |
 | **The Unitary Kernel & Systems Theory** | WP-006 | `760df6dca757254bebfd5585dc8d4b5eb596ae7c272311b1d319e187b1286f90` |
 | **Adaptive Linguistic Security Framework (ALSF)** | ALSF | `11fa5968b5e1aaf7e0f0b060333d69de8b10b84f1842b46c60a3abdda9faeb6b` |

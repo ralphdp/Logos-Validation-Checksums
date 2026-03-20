@@ -45,7 +45,7 @@ export const MANIFEST = {
         {
                 "id": "WP-001",
                 "label": "Foundations of Computational Theology",
-                "hash": "916ac6e236581258053fa7b04e8d4be9752644c7dfa496f36135ad1293cfa163"
+                "hash": "ad00a3428eedef3d99be2b4141be54cd16a0a50ca787c8715ecc7df31501c646"
         },
         {
                 "id": "PR-009",
