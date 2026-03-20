@@ -30,7 +30,7 @@
         {
             "id": "WP-006",
             "label": "Recursive Ascent",
-            "hash": "5bdf1a92acd1f6bf013a4979047795bedae1358482ae619bf8a39297f0269974"
+            "hash": "0396e974c784ad52f613a32efeab636365a3287f580f329fc77c0b508c893434"
         },
         {
             "id": "WP-010",
@@ -98,7 +98,7 @@
         {
             "id": "ALSF",
             "label": "Adaptive Linguistic Security Framework (ALSF)",
-            "hash": "15145fcbf585fb5693052c9a5ac8d4a87f4b4c3239873095d9782259545a762c"
+            "hash": "0b29550a343690f448a67f4ef22f67e6e67915b138d9132d82d101d2905696d1"
         },
         {
             "id": "LGS-KRN-V1",
@@ -178,7 +178,7 @@
         {
             "id": "ALSF",
             "label": "Adaptive Linguistic Security Framework (ALSF)",
-            "hash": "15145fcbf585fb5693052c9a5ac8d4a87f4b4c3239873095d9782259545a762c"
+            "hash": "0b29550a343690f448a67f4ef22f67e6e67915b138d9132d82d101d2905696d1"
         },
         {
             "id": "PR-011",
@@ -188,17 +188,17 @@
         {
             "id": "PR-006",
             "label": "The Proof of Multitime Transport",
-            "hash": "cc8329b921f4a62c414100085f390b87d7df5624ebc0dc11297306baf5f8aa95"
+            "hash": "758304f26facbd949bbf39a0cc533ce9e0281525b4f66511f3f13ce364c0b688"
         },
         {
             "id": "PR-002",
             "label": "Identity Vector Stabilization",
-            "hash": "6ea9dd13149cc8f60b968d9db5f44a1a93477c46a5d819a5359b590a9c9e9f1b"
+            "hash": "7d847b1876f9f7e29c7e8740a693d9508feb90248331495de68d29951281ff2b"
         },
         {
             "id": "PR-012",
             "label": "The Proof of Chess Determinism (Buridan's Ass)",
-            "hash": "af1cc7d135d3a71ceb9d2ce3ac80cdf517138b9eb710ad57d9bd3af69ed14730"
+            "hash": "0cfafefbe0470161aca03bf718d91d2f44bef98afbf028a440489c2eb157a7dc"
         },
         {
             "id": "AN-038",
@@ -208,7 +208,7 @@
         {
             "id": "PR-003",
             "label": "The Law of Epistemic Warrant",
-            "hash": "1b3cd0b0a06630392e46f5b41297d6b28eaee3ef6025cdc0a13937181322f00a"
+            "hash": "4f7d8ea7142b59ed9b2fe8f49df0700d1e1db6fa6a20c69820c8339238ba6efd"
         },
         {
             "id": "AN-001",
