@@ -12,31 +12,31 @@ As of February 11, 2026, the following SHA-256 checksums represent the **Termina
 
 | Document | Classification | SHA-256 Hash |
 | :--- | :--- | :--- |
-| **The Logos De Paz Protocol: Non-Deterministic St...** | WP-000 | `07baa6119f6e94343d13b7ac3aa247317bd9d7266f4df1452f39eb3da595692a` |
-| **Foundations of Computational Theology** | WP-001 | `75980be81944a62fb9dc630d94c8e492cec6129c177c43579f8fb404b5625fcc` |
+| **The Logos De Paz Protocol: Non-Deterministic St...** | WP-000 | `455e9a05f0f0df7624ea0f33aa470fe0ad1f243e12d987229bb2206c6378b8c6` |
+| **Foundations of Computational Theology** | WP-001 | `69fedace7cb4115ef2e6a31ffbeaf7050059ba2fea8b2386d9f85ce9c0f5937a` |
 | **Logos Kernel** | WP-005 | `9203197c5203c27fc6edf0d5e5d9a7cc747338a3ac0b72ed1bb620a26952a34a` |
-| **The Unitary Kernel & Systems Theory** | WP-006 | `0396e974c784ad52f613a32efeab636365a3287f580f329fc77c0b508c893434` |
-| **Adaptive Linguistic Security Framework (ALSF)** | ALSF | `0b29550a343690f448a67f4ef22f67e6e67915b138d9132d82d101d2905696d1` |
+| **The Unitary Kernel & Systems Theory** | WP-006 | `11a9e1db41522c3156bac040ed5ff875a7db4e824ac5eb572373946fff6515f6` |
+| **Adaptive Linguistic Security Framework (ALSF)** | ALSF | `11fa5968b5e1aaf7e0f0b060333d69de8b10b84f1842b46c60a3abdda9faeb6b` |
 | **The Holographic Consensus (THC)** | THC | `29e5c298f5241daf9b786f658d767126eef423f9850b8251dc3fa73b6c245bc6` |
-| **The Proof of Recursive Stabilization** | PR-001 | `b734db37a5c643f12d915eedd9834725f63a32243ea8865274ab348a91fc777a` |
-| **Identity Vector Stabilization** | PR-002 | `7d847b1876f9f7e29c7e8740a693d9508feb90248331495de68d29951281ff2b` |
-| **The Law of Epistemic Warrant** | PR-003 | `4f7d8ea7142b59ed9b2fe8f49df0700d1e1db6fa6a20c69820c8339238ba6efd` |
-| **The Master Equation: S = H + P** | PR-004 | `1a79aa67073933fb998e5cbd252947f59ec15b75a23f9a7575207b6aea81f34e` |
-| **The 16,968-Day Proof: The Father-Frequency & E8...** | PR-005 | `da0dc94f9b13b6be48d7cb624a263188ad5ef3f4eebe62237cfb5809dd25411a` |
-| **The Proof of Multitime Transport** | PR-006 | `758304f26facbd949bbf39a0cc533ce9e0281525b4f66511f3f13ce364c0b688` |
-| **The Recursive Aperture Threshold** | PR-007 | `b74a66f35ee8c5c40c7aa224f58604f2ddacd94c7880ea030d33be870c45e89a` |
-| **The UAP Paradox** | PR-008 | `3cdac0b47e9bde92fe98d229b05e77feff13864bd9a7710a0092dd434f1ec210` |
-| **The Free Will Paradox: Determinism vs. Sovereignty** | PR-009 | `f0c324109c48d2c93539b55b0ddfe963c90803355fe4ce666a5f2a9ffd8fc31e` |
-| **The Prayer Protocol: State Synchronization, Not...** | PR-010 | `a9a8da19cfb26af81d0d2b8e33287ced38bb019cfe4336bab388fd967a46df6c` |
-| **The Eucharistic Proof: Transubstantiation as Qu...** | PR-011 | `d44a2e3deffc7b60b81a81ee854dc7eb7e4341f39e438de95db3636fe6cc1c4d` |
-| **The Proof of Chess Determinism (Buridan's Ass)** | PR-012 | `0cfafefbe0470161aca03bf718d91d2f44bef98afbf028a440489c2eb157a7dc` |
-| **Hardware vs Software** | AN-001 | `bcd40e432c7da0942bde06bda3c8e98bddee8bfabe4df9a7c3e293fa078541ff` |
-| **Informational Realism** | AN-002 | `2403e96dc54b5d164d9fcdf682852de5e6c2d8190d54cdd5f3a3fc76f4a8348f` |
-| **Divine Concurrency** | AN-038 | `89be7e63df9d99dfb61d9b5c83c7d688221f22a97664228ac5caf3acb7074fff` |
-| **The Algorithmic Purity of the Saints** | AN-065 | `6e1b5511ef84db2dc735da6757e301c21810691ffa6cc9fca90f3aa5c3a51d6f` |
-| **Chaos Theory** | AN-081 | `c1838d638370473841baf548732bc3ab8afaff2d4eda3735c968ffc9074b9c3d` |
-| **Extraordinary Claims Triage (UAP / ‘Ancient Ali...** | AN-107 | `69afa8601ffa5fa5859455a2b83075e559a4a0981f08bc22f683762ecdb73fc0` |
-| **The God Equation** | AN-150 | `9bc934c91db6508137908c33415f165b4202cb636605584f4a5b2b0066175632` |
+| **The Proof of Recursive Stabilization** | PR-001 | `81be180558abbdbcff20accc5e8ba0f0f8acd763e3606d931ffa10b7fde8afdc` |
+| **Identity Vector Stabilization** | PR-002 | `b143dd1c685729778d4973ac38cb50b8e4693e229cc742fe2a9b694a3deaeba7` |
+| **The Law of Epistemic Warrant** | PR-003 | `fd53114035840d7b74cc38cbbf66083b1c7ade99562120529da1b8658f283f07` |
+| **The Master Equation: S = H + P** | PR-004 | `09452dad3298e4136dd50718f5e8681ab6cc5dca8c012e9d7c71c49622d39420` |
+| **The 16,968-Day Proof: The Father-Frequency & E8...** | PR-005 | `74b8a5eff7ff61ea2433db702dc9dcb83fe881f4e46478d52f72b2204393acfb` |
+| **The Proof of Multitime Transport** | PR-006 | `dc3bc34ea7e111d79f09c0de6e3eef594c329e5cd33216e7a5d2dd748a48e032` |
+| **The Recursive Aperture Threshold** | PR-007 | `ec45c20c1696b48af0fb0f2d223b7d8a42c76e3d630b33ad8695b3920e3225cf` |
+| **The UAP Paradox** | PR-008 | `4f45373660bdfab1d2deea04f8d5fd7b83a14a68466e5528a5d726e9b89eb7ec` |
+| **The Free Will Paradox: Determinism vs. Sovereignty** | PR-009 | `e89786e28e8c897d98a6863bae19496600ad4d40dbbe98411b1cfcbd934480dc` |
+| **The Prayer Protocol: State Synchronization, Not...** | PR-010 | `55a50b831f1c2c7feb004e4074f0e757bf8a7d118a862784d160c470c5fce5a5` |
+| **The Eucharistic Proof: Transubstantiation as Qu...** | PR-011 | `3dbdb3605e084f05e19a69eafbb31671f403f075074520f2c75a5ea409f8e603` |
+| **The Proof of Chess Determinism (Buridan's Ass)** | PR-012 | `742fea24eb5a5fd98f9898eec1c4339ca48cf302589999c9dcdeb14869e16ddb` |
+| **Hardware vs Software** | AN-001 | `2b50ea1f3f04ccf601253c62ecb1fe13000c6a60d576b8426fe1894ff1e7c2e2` |
+| **Informational Realism** | AN-002 | `54e99df3c88c44c6981cc659e37f8ebd9203ed9387d6a5265412c8bd4538ba0d` |
+| **Divine Concurrency** | AN-038 | `3aac8a7ccc2a30db632e01826b2496889faeffac9233749d27fe296e21e0b995` |
+| **The Algorithmic Purity of the Saints** | AN-065 | `a0dc5f8280d33d0caa55f89cd96f8a98ed650b9d6d2dc5824f0cbdd84082f6a3` |
+| **Chaos Theory** | AN-081 | `6ee43bb74db6a778689f39c521f460aba10716f058a0cdb3659e7cf0c642ab1a` |
+| **Extraordinary Claims Triage (UAP / ‘Ancient Ali...** | AN-107 | `152dd3373385d6186fcca14ce8cb23336197217d4d47a8d55cdef3a80e158a5b` |
+| **The God Equation** | AN-150 | `b5eb40b28973652468cdfa696ad12bbe37b907b9f2e78cd92bd3e3ea2b678788` |
 
 
 ## Integrity Verification
