@@ -10,22 +10,22 @@ export const MANIFEST = {
         {
                 "id": "ALSF",
                 "label": "Adaptive Linguistic Security Framework (ALSF)",
-                "hash": "7f56f7585b162dee7db41e827aaf426db8bb4c20c4efb2a0fafc2fc7f5c8ea20"
+                "hash": "19f8beb3878120fbd20e74eee4f3982316e77e93ad33e3515d586152d3f7cfa7"
         },
         {
                 "id": "AN-065",
                 "label": "The Algorithmic Purity of the Saints",
-                "hash": "4666d5fcacbc540c339f2292dfeb81532688babe4934cdcb3f202b712fc61eec"
+                "hash": "c321831dd77d735ed3e89836dec993ea1bb4975410938be73fd5cb9f36b14559"
         },
         {
                 "id": "AN-081",
                 "label": "Chaos Theory",
-                "hash": "b6477862ede3b060dac2a324aa84aa1da8dd9ab1019461079a2a75c7cee6afe9"
+                "hash": "670b356c123ef7483d665c387985dbb365143ae70d1fbb99d79993d8f426c4f8"
         },
         {
                 "id": "PR-012",
                 "label": "The Proof of Chess Determinism (Buridan's Ass)",
-                "hash": "c1d2b93fc1c162ef923a8ae4931b86e310e80e1400426c72bfd0ff2439568a2f"
+                "hash": "69856227b53ebeec6fe6c4309d0e7d16c4807354ebc694a80ac3a5344918331e"
         },
         {
                 "id": "AN-038",
@@ -105,7 +105,7 @@ export const MANIFEST = {
         {
                 "id": "WP-004",
                 "label": "Quantum Gravity: The Structural Syntax of Holographic Spacetime",
-                "hash": "ceb2f5fb7b5e9ddfd606c77d76acfb3823295e504b1c506a6d81a432e477c930"
+                "hash": "3ac5d2bb2f63cc426c25d5eda88a1d788d1d8c08b2d8faea98486186d22d3d7f"
         },
         {
                 "id": "PR-007",
