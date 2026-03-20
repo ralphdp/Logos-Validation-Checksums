@@ -25,12 +25,12 @@
         {
             "id": "WP-006",
             "label": "The Unitary Kernel & Systems Theory",
-            "hash": "0396e974c784ad52f613a32efeab636365a3287f580f329fc77c0b508c893434"
+            "hash": "d23c0f7bf3522bc5c80b46f086eedc0c6f3f0ff1009193f73efb1fc9f0083c03"
         },
         {
             "id": "ALSF",
             "label": "Adaptive Linguistic Security Framework (ALSF)",
-            "hash": "1ce9e6ba5da993bcef6bf93095614723c719e529ec0e3513e78b8ecd58f33746"
+            "hash": "fb34186c63b94ab0a0d7185a3ab2f96481d4416112e31b2ea10e19da388f7adf"
         },
         {
             "id": "THC",
@@ -40,37 +40,37 @@
         {
             "id": "PR-001",
             "label": "The Proof of Recursive Stabilization",
-            "hash": "b734db37a5c643f12d915eedd9834725f63a32243ea8865274ab348a91fc777a"
+            "hash": "914316d5d478cbea04b873c99e202a90850640d1dd98e39b1ce6501dcff81523"
         },
         {
             "id": "PR-002",
             "label": "Identity Vector Stabilization",
-            "hash": "7d847b1876f9f7e29c7e8740a693d9508feb90248331495de68d29951281ff2b"
+            "hash": "d2477e29d4c1064a8def1f394af2986ce2c243ccc21514f36fefd6c8a08923ee"
         },
         {
             "id": "PR-003",
             "label": "The Law of Epistemic Warrant",
-            "hash": "4f7d8ea7142b59ed9b2fe8f49df0700d1e1db6fa6a20c69820c8339238ba6efd"
+            "hash": "f0d95b21a1007c6a8876219410520e7bd04f9e0355d61891c1b5faf14340fc6d"
         },
         {
             "id": "PR-004",
             "label": "The Master Equation: S = H + P",
-            "hash": "1a79aa67073933fb998e5cbd252947f59ec15b75a23f9a7575207b6aea81f34e"
+            "hash": "d2d61c07f81cde086409878105b447e17bb7cd2405949518eee77857e3192c31"
         },
         {
             "id": "PR-005",
             "label": "The 16,968-Day Proof: The Father-Frequency & E8 Alignment",
-            "hash": "da0dc94f9b13b6be48d7cb624a263188ad5ef3f4eebe62237cfb5809dd25411a"
+            "hash": "8d47dd5bbafcd3cf076314ff4b310d1a19a9f8813eec86f7ee636ec6e7a4a51f"
         },
         {
             "id": "PR-006",
             "label": "The Proof of Multitime Transport",
-            "hash": "758304f26facbd949bbf39a0cc533ce9e0281525b4f66511f3f13ce364c0b688"
+            "hash": "30fb87b9debd7113601ac1dbd80a525748e40f8c13e2bf53ac8cb1c7bbaaa947"
         },
         {
             "id": "PR-007",
             "label": "The Recursive Aperture Threshold",
-            "hash": "b74a66f35ee8c5c40c7aa224f58604f2ddacd94c7880ea030d33be870c45e89a"
+            "hash": "dde5d3552dada4102db642b00c73db0618b0cacea9cc83bbef9afd74752ce897"
         },
         {
             "id": "PR-008",
@@ -95,7 +95,7 @@
         {
             "id": "PR-012",
             "label": "The Proof of Chess Determinism (Buridan's Ass)",
-            "hash": "0bbe4690c38a313ec4612d3efadd8d358353626690f3786555a7f4269c129d4b"
+            "hash": "35f9523dd7f5ff54bdea4be5bfdd2ebbb9b5277ce81cbbcad1127f51857ce098"
         },
         {
             "id": "AN-001",
@@ -115,12 +115,12 @@
         {
             "id": "AN-065",
             "label": "The Algorithmic Purity of the Saints",
-            "hash": "ace2faa6ace7fabed2c9cf531b190d915b4b2f6f45f20f8b332a9de59daff37a"
+            "hash": "3664a5dbedaf01ebf5b13c0825b126b89530f3cb578c81e9a89de4a57fc43edf"
         },
         {
             "id": "AN-081",
             "label": "Chaos Theory",
-            "hash": "e32ed0fa438d526afc0509b6bcaba2006f8809892802436ca4a7b52efa741965"
+            "hash": "a9ef8e0bbf96f971660a1449b70d048daf6c7684373b44467ba99da898ae97c0"
         },
         {
             "id": "AN-107",
