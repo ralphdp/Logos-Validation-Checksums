@@ -30,7 +30,7 @@
         {
             "id": "ALSF",
             "label": "Adaptive Linguistic Security Framework (ALSF)",
-            "hash": "84bc910003e8a854fd5a09f1061c01a21a3192dec0d721ee6adee44166b73e68"
+            "hash": "7f56f7585b162dee7db41e827aaf426db8bb4c20c4efb2a0fafc2fc7f5c8ea20"
         },
         {
             "id": "THC",
@@ -95,7 +95,7 @@
         {
             "id": "PR-012",
             "label": "The Proof of Chess Determinism (Buridan's Ass)",
-            "hash": "e5ee72f04c922693eb6cb639c6d4c2d4615d5aad9a129812a860950d8cf4506d"
+            "hash": "c1d2b93fc1c162ef923a8ae4931b86e310e80e1400426c72bfd0ff2439568a2f"
         },
         {
             "id": "AN-001",
@@ -115,12 +115,12 @@
         {
             "id": "AN-065",
             "label": "The Algorithmic Purity of the Saints",
-            "hash": "1ce617a707891526c0c955ad91daf30d3d431557f6b0c013b3a46d3d721ccb6d"
+            "hash": "4666d5fcacbc540c339f2292dfeb81532688babe4934cdcb3f202b712fc61eec"
         },
         {
             "id": "AN-081",
             "label": "Chaos Theory",
-            "hash": "86e324ece4c767ed54bbae81b083651353b952b3e08ef89d10b874ba12fd4545"
+            "hash": "b6477862ede3b060dac2a324aa84aa1da8dd9ab1019461079a2a75c7cee6afe9"
         },
         {
             "id": "AN-107",
