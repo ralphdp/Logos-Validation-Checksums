@@ -10,12 +10,12 @@
         {
             "id": "WP-000",
             "label": "The Logos De Paz Protocol: Non-Deterministic Stability",
-            "hash": "c613737838eca1ff12f01c76585cc3fe19af13076de891443522b764b2ecf86d"
+            "hash": "dbbb2cadb0c1dd1d94b4bafd0c2e439f09742ef3e40d082073b042b451fa06ff"
         },
         {
             "id": "WP-001",
             "label": "Foundations of Computational Theology",
-            "hash": "e049336bba00a4954690cd3fc73aca1c1a457f672fdf3914159e72e4e5ab4285"
+            "hash": "916ac6e236581258053fa7b04e8d4be9752644c7dfa496f36135ad1293cfa163"
         },
         {
             "id": "WP-005",
@@ -35,7 +35,7 @@
         {
             "id": "THC",
             "label": "The Holographic Consensus (THC)",
-            "hash": "29e5c298f5241daf9b786f658d767126eef423f9850b8251dc3fa73b6c245bc6"
+            "hash": "cce0cee9938de5f8a8f93515918b69ed893b983f42389621547644305c6eed70"
         },
         {
             "id": "PR-001",
@@ -45,17 +45,17 @@
         {
             "id": "PR-002",
             "label": "Identity Vector Stabilization",
-            "hash": "328164059d8d2ad2cda239e9b716c962c5d438c0b6dafe4234f718d92cdb4eda"
+            "hash": "e1869a45bff6125790668fa8cd5439b3f2e41f78cb23b4549dbf57fcba794c33"
         },
         {
             "id": "PR-003",
             "label": "The Law of Epistemic Warrant",
-            "hash": "86009345fc31029111abab3f5a8ea3d34b04a4778190942f8e5167962685d982"
+            "hash": "5fd9d2b89750df790812ca00aba32eff14a0ed05b49b5daa6719145750a9bfb2"
         },
         {
             "id": "PR-004",
             "label": "The Master Equation: S = H + P",
-            "hash": "b00f4df57693680ac96723d607cfd93f391350347df00c9165524e746b012d4f"
+            "hash": "6dfc563f88a67f9067ce49253839323f7c7dfd2bdfc8d10d02c45f53d7cdd9cc"
         },
         {
             "id": "PR-005",
@@ -65,12 +65,12 @@
         {
             "id": "PR-006",
             "label": "The Proof of Multitime Transport",
-            "hash": "3f2701e7961dbf013fccea6842fe3339b64f3003c94ddfcc099b651b7aa40f53"
+            "hash": "4d90779e65e28b88dc0cf3dd1e3c65ec465e376c6b52c45b3bba02d3884479b8"
         },
         {
             "id": "PR-007",
             "label": "The Recursive Aperture Threshold",
-            "hash": "631eca333fea0b6c666d1c7f58acf79ffb529d8dcf2578cac16e188da9d9b92a"
+            "hash": "52d449b3fb6e05496a1283d2db3bda49e75b824b6acadfe13021e2bfff98d436"
         },
         {
             "id": "PR-008",
@@ -80,12 +80,12 @@
         {
             "id": "PR-009",
             "label": "The Free Will Paradox: Determinism vs. Sovereignty",
-            "hash": "a869c9ee4069014631eb80016742a5a06549b5882e8932a2daaa17e426b600fb"
+            "hash": "0baee4285b6fb18a2e99f31affa87ee563e8262f30c6d8b322ce04ead7944833"
         },
         {
             "id": "PR-010",
             "label": "The Prayer Protocol: State Synchronization, Not Information Transfer",
-            "hash": "0b1e30cb1d7628029c2d961ae471366f172237cde3dda66e8ff517a21be1da04"
+            "hash": "01c44e99ee788858b8230643d136f0c4ee4dd7a9813029b687c9cbdd3b62af1d"
         },
         {
             "id": "PR-011",
@@ -100,12 +100,12 @@
         {
             "id": "AN-001",
             "label": "Hardware vs Software",
-            "hash": "5c8201cf9bbc95ed47eac2715b57b2c21d209ac1c7a7056f312900576337138a"
+            "hash": "35f507a4f23e0d30fc31ea088d8d05b3a27df7a03b45d5304f341aa8aa31da42"
         },
         {
             "id": "AN-002",
             "label": "Informational Realism",
-            "hash": "05a5e72b590db97e7acceff8504e8ce8613ab3e3b2109314dad1ed44a893e0a3"
+            "hash": "2673783aa4aa892f3424391d256664f21d259020d6bb214d816b9e358957c5a2"
         },
         {
             "id": "AN-038",
@@ -130,7 +130,7 @@
         {
             "id": "AN-150",
             "label": "The God Equation",
-            "hash": "a6c716510ad46374fef0cf2666fadc6cfffdd06e15b9bfbc0254de44685ecbc7"
+            "hash": "2b67dc419916c0323c9ecec44bed6dbfe813503e545204215e808fee1a8f1c67"
         }
     ]
 }
