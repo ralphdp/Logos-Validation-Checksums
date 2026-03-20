@@ -10,67 +10,67 @@ export const MANIFEST = {
         {
                 "id": "ALSF",
                 "label": "Adaptive Linguistic Security Framework (ALSF)",
-                "hash": "19f8beb3878120fbd20e74eee4f3982316e77e93ad33e3515d586152d3f7cfa7"
+                "hash": "11fa5968b5e1aaf7e0f0b060333d69de8b10b84f1842b46c60a3abdda9faeb6b"
         },
         {
                 "id": "AN-065",
                 "label": "The Algorithmic Purity of the Saints",
-                "hash": "c321831dd77d735ed3e89836dec993ea1bb4975410938be73fd5cb9f36b14559"
+                "hash": "a0dc5f8280d33d0caa55f89cd96f8a98ed650b9d6d2dc5824f0cbdd84082f6a3"
         },
         {
                 "id": "AN-081",
                 "label": "Chaos Theory",
-                "hash": "670b356c123ef7483d665c387985dbb365143ae70d1fbb99d79993d8f426c4f8"
+                "hash": "6ee43bb74db6a778689f39c521f460aba10716f058a0cdb3659e7cf0c642ab1a"
         },
         {
                 "id": "PR-012",
                 "label": "The Proof of Chess Determinism (Buridan's Ass)",
-                "hash": "69856227b53ebeec6fe6c4309d0e7d16c4807354ebc694a80ac3a5344918331e"
+                "hash": "742fea24eb5a5fd98f9898eec1c4339ca48cf302589999c9dcdeb14869e16ddb"
         },
         {
                 "id": "AN-038",
                 "label": "Divine Concurrency",
-                "hash": "6900daebd119b2521f95218ee5b9896f4c3d4d12d3813315827e34036c7f5460"
+                "hash": "3aac8a7ccc2a30db632e01826b2496889faeffac9233749d27fe296e21e0b995"
         },
         {
                 "id": "PR-011",
                 "label": "The Eucharistic Proof: Transubstantiation as Quantum State Collapse",
-                "hash": "85cad9ad8a1f3f80ba45baf1b977848629833ede4abaeee9d3f4a2010f38a5c2"
+                "hash": "a9d37f55183a337b5c0905c27fc6897c166db8995029de25664c1d0d56d4e9ac"
         },
         {
                 "id": "AN-107",
                 "label": "Extraordinary Claims Triage (UAP / Non-Human Actors)",
-                "hash": "ab19430e0380a0d6fc39cce71cbdef91f3e2ee07ebb8b827fd606fbf2a5b4864"
+                "hash": "152dd3373385d6186fcca14ce8cb23336197217d4d47a8d55cdef3a80e158a5b"
         },
         {
                 "id": "WP-001",
                 "label": "Foundations of Computational Theology",
-                "hash": "75980be81944a62fb9dc630d94c8e492cec6129c177c43579f8fb404b5625fcc"
+                "hash": "9eafec95d590eec9b0777369833d234260bf4c281dabcd2243544f07238cbe81"
         },
         {
                 "id": "PR-009",
                 "label": "The Free Will Paradox: Determinism vs. Sovereignty",
-                "hash": "f0c324109c48d2c93539b55b0ddfe963c90803355fe4ce666a5f2a9ffd8fc31e"
+                "hash": "cf1bd0013462a88352706ff8af3ab3a8f19b8baaad86d07765aa55ecfa17d527"
         },
         {
                 "id": "AN-150",
                 "label": "The God Equation",
-                "hash": "9bc934c91db6508137908c33415f165b4202cb636605584f4a5b2b0066175632"
+                "hash": "34f8887672de0e6012c7a16933d454adec9c1ed442d2a057809902928dfc2644"
         },
         {
                 "id": "AN-001",
                 "label": "Hardware vs Software",
-                "hash": "bcd40e432c7da0942bde06bda3c8e98bddee8bfabe4df9a7c3e293fa078541ff"
+                "hash": "3609498cc65e12a1f725c0e610bc6ab6fb24c307daae0fb8c6d399dea0194c45"
         },
         {
                 "id": "PR-002",
                 "label": "Identity Vector Stabilization",
-                "hash": "d2477e29d4c1064a8def1f394af2986ce2c243ccc21514f36fefd6c8a08923ee"
+                "hash": "11c59b18ea6d07fa49fbede20650bc3f869c7166526e31155b78578da992f8c6"
         },
         {
                 "id": "AN-002",
                 "label": "Informational Realism",
-                "hash": "2403e96dc54b5d164d9fcdf682852de5e6c2d8190d54cdd5f3a3fc76f4a8348f"
+                "hash": "47d845431a4429e4a4ccba77be29b8cd7ec3924b81a3e4445ac77221aada0b52"
         },
         {
                 "id": "PR-003",
