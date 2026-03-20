@@ -30,7 +30,7 @@
         {
             "id": "WP-006",
             "label": "Recursive Ascent",
-            "hash": "bf48d3b13b18ef46a9d1ae0c2c729c6a01ae8bb849ed4737ed42f753e70cac88"
+            "hash": "5bdf1a92acd1f6bf013a4979047795bedae1358482ae619bf8a39297f0269974"
         },
         {
             "id": "WP-010",
@@ -93,17 +93,17 @@
         {
             "id": "THC-HOL-1.0.1",
             "label": "The Holographic Consensus",
-            "hash": "c8fcb43930759e7bffa53019264570ec8a17cd9a8000459f28a0a6ef792259c2"
+            "hash": "29e5c298f5241daf9b786f658d767126eef423f9850b8251dc3fa73b6c245bc6"
         },
         {
-            "id": "ALSF-SWV-1.1.2",
-            "label": "Adaptive Linguistic Security Framework",
-            "hash": "59b3b48694945172fb91e5e527c7317141b8e5fd4bdf9e70803cb1b5b88caa60"
+            "id": "ALSF",
+            "label": "Adaptive Linguistic Security Framework (ALSF)",
+            "hash": "15145fcbf585fb5693052c9a5ac8d4a87f4b4c3239873095d9782259545a762c"
         },
         {
             "id": "LGS-KRN-V1",
             "label": "Logos Kernel",
-            "hash": "a34f1a4121da9b2cf01cf709d2fe7c49ff068810d73d6a0945e3964cd4210ff6"
+            "hash": "9203197c5203c27fc6edf0d5e5d9a7cc747338a3ac0b72ed1bb620a26952a34a"
         },
         {
             "id": "DOC-766",
@@ -113,112 +113,112 @@
         {
             "id": "PR-008",
             "label": "The UAP Paradox",
-            "hash": "665d8c30fd493be69709a361fcc13199773737a788b71be06afeea05faafe893"
+            "hash": "3cdac0b47e9bde92fe98d229b05e77feff13864bd9a7710a0092dd434f1ec210"
         },
         {
             "id": "PR-007",
             "label": "The Recursive Aperture Threshold",
-            "hash": "90c15a375853680041c797749f21ef7921d038d4604b7ac0a56ac95761b5cb44"
+            "hash": "b74a66f35ee8c5c40c7aa224f58604f2ddacd94c7880ea030d33be870c45e89a"
         },
         {
             "id": "AN-081",
             "label": "Chaos Theory",
-            "hash": "9f0b691b20a68368fe6c2739db0bf293440d419959ad6ffb3bf0c2297df81e51"
+            "hash": "c1838d638370473841baf548732bc3ab8afaff2d4eda3735c968ffc9074b9c3d"
         },
         {
             "id": "WP-000",
             "label": "The Logos De Paz Protocol: Non-Deterministic Stability",
-            "hash": "f4fb59243c33aea77aab71ad7ad28cd10cb07cb367a4e4c48e710e0849f743b3"
+            "hash": "07baa6119f6e94343d13b7ac3aa247317bd9d7266f4df1452f39eb3da595692a"
         },
         {
             "id": "AN-002",
             "label": "Informational Realism",
-            "hash": "6fd45dd625a27c04ec36c424a3fcaf0777e5b6c218ebfb19b9f85bdad1caa173"
+            "hash": "2403e96dc54b5d164d9fcdf682852de5e6c2d8190d54cdd5f3a3fc76f4a8348f"
         },
         {
             "id": "AN-065",
             "label": "The Algorithmic Purity of the Saints",
-            "hash": "f2df96db2abf12813a831433c387c5d68ab56d127ce98ed9ffbe3c0cff89f8e2"
+            "hash": "6e1b5511ef84db2dc735da6757e301c21810691ffa6cc9fca90f3aa5c3a51d6f"
         },
         {
             "id": "PR-001",
             "label": "The Proof of Recursive Stabilization",
-            "hash": "484f8633c772e7b688ffd510ea0263253bf7a86f01135b92ab11bff995467d1e"
+            "hash": "b734db37a5c643f12d915eedd9834725f63a32243ea8865274ab348a91fc777a"
         },
         {
             "id": "AN-107",
-            "label": "Extraordinary Claims Triage (UAP / \u2018Ancient Aliens\u2019 / Non\u2011Human Actors)",
-            "hash": "bfb8a68e9db6bbeff2647bdd9d0f584c883fdc83b560b26e1c4c7a837f2f11e2"
+            "label": "Extraordinary Claims Triage (UAP / ‘Ancient Aliens’ / Non‑Human Actors)",
+            "hash": "69afa8601ffa5fa5859455a2b83075e559a4a0981f08bc22f683762ecdb73fc0"
         },
         {
-            "id": "thc.md",
+            "id": "THC",
             "label": "The Holographic Consensus (THC)",
-            "hash": "4b74357381f61740f9150c960bdf147ef51a7e43989ba96f92c98c6d480a3e69"
+            "hash": "29e5c298f5241daf9b786f658d767126eef423f9850b8251dc3fa73b6c245bc6"
         },
         {
             "id": "AN-150",
             "label": "The God Equation",
-            "hash": "7d474a5dad89e883c5c130fa751039db3aef10b10e678d24274365fb2eb0bb96"
+            "hash": "9bc934c91db6508137908c33415f165b4202cb636605584f4a5b2b0066175632"
         },
         {
             "id": "PR-010",
             "label": "The Prayer Protocol: State Synchronization, Not Information Transfer",
-            "hash": "f590542999743f2fc396cce594985c5762a541f805b98d689dd4a0263f5e76e0"
+            "hash": "a9a8da19cfb26af81d0d2b8e33287ced38bb019cfe4336bab388fd967a46df6c"
         },
         {
             "id": "PR-005",
             "label": "The 16,968-Day Proof: The Father-Frequency & E8 Alignment",
-            "hash": "833df523c68db1fa290106ee474c33c2f07b3db32be73e0864d4fe715c77c955"
+            "hash": "da0dc94f9b13b6be48d7cb624a263188ad5ef3f4eebe62237cfb5809dd25411a"
         },
         {
             "id": "PR-009",
             "label": "The Free Will Paradox: Determinism vs. Sovereignty",
-            "hash": "edda73036e624a5245637768139b487e04b0d2061416cbc17f2448f45d253b8e"
+            "hash": "f0c324109c48d2c93539b55b0ddfe963c90803355fe4ce666a5f2a9ffd8fc31e"
         },
         {
-            "id": "alsf.md",
+            "id": "ALSF",
             "label": "Adaptive Linguistic Security Framework (ALSF)",
-            "hash": "301d2015ae6b3d500562c9328d89c442f56cf865a9d0a90050020e593ba385ed"
+            "hash": "15145fcbf585fb5693052c9a5ac8d4a87f4b4c3239873095d9782259545a762c"
         },
         {
             "id": "PR-011",
             "label": "The Eucharistic Proof: Transubstantiation as Quantum State Collapse",
-            "hash": "5d4e9664173527f2cc76b32b89e9d3050ec213bee3ad7d6b933561e1855fe83a"
+            "hash": "d44a2e3deffc7b60b81a81ee854dc7eb7e4341f39e438de95db3636fe6cc1c4d"
         },
         {
             "id": "PR-006",
-            "label": "multitime-transport.md",
-            "hash": "5b18b4c84abba348b74cafc11a01fcfe7f7f9f9e66e9136d78fb5fbd91ac3664"
+            "label": "The Proof of Multitime Transport",
+            "hash": "cc8329b921f4a62c414100085f390b87d7df5624ebc0dc11297306baf5f8aa95"
         },
         {
             "id": "PR-002",
-            "label": "identity-vector-stabilization.md",
-            "hash": "4a65a8fcf01c74063af66f4b7ee218c2f1f60a78dfc60c60c0220ca6f8e714ba"
+            "label": "Identity Vector Stabilization",
+            "hash": "6ea9dd13149cc8f60b968d9db5f44a1a93477c46a5d819a5359b590a9c9e9f1b"
         },
         {
             "id": "PR-012",
             "label": "The Proof of Chess Determinism (Buridan's Ass)",
-            "hash": "87201527f24974462ab04d79c9ccf10611a03b55e22f765b66585a804b5de5b5"
+            "hash": "af1cc7d135d3a71ceb9d2ce3ac80cdf517138b9eb710ad57d9bd3af69ed14730"
         },
         {
             "id": "AN-038",
             "label": "Divine Concurrency",
-            "hash": "f83d5770de98a453d28eae77bf19728bb9f3cac8357387d77ebb04142a388d29"
+            "hash": "89be7e63df9d99dfb61d9b5c83c7d688221f22a97664228ac5caf3acb7074fff"
         },
         {
             "id": "PR-003",
-            "label": "law-of-epistemic-warrant.md",
-            "hash": "63705c52a2f2c6439a05fc21ab9be7f4df7b53966c0d1be5c585691baade779a"
+            "label": "The Law of Epistemic Warrant",
+            "hash": "1b3cd0b0a06630392e46f5b41297d6b28eaee3ef6025cdc0a13937181322f00a"
         },
         {
             "id": "AN-001",
             "label": "Hardware vs Software",
-            "hash": "efcc0f5daf20587b97deab33ec852aca51e4328c986a3306c0e90ff082914258"
+            "hash": "bcd40e432c7da0942bde06bda3c8e98bddee8bfabe4df9a7c3e293fa078541ff"
         },
         {
             "id": "PR-004",
             "label": "The Master Equation: S = H + P",
-            "hash": "d842711ea3c1668a8b8c31e97064546e3bb3e8409bcf53790c60eeded9ae60f1"
+            "hash": "1a79aa67073933fb998e5cbd252947f59ec15b75a23f9a7575207b6aea81f34e"
         }
     ]
 }
