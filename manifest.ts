@@ -45,22 +45,22 @@ export const MANIFEST = {
         {
                 "id": "WP-001",
                 "label": "Foundations of Computational Theology",
-                "hash": "9eafec95d590eec9b0777369833d234260bf4c281dabcd2243544f07238cbe81"
+                "hash": "ae718c4ba21e4c2005f52e27df8670327f060a1f24dd319d384a3469ddd718f5"
         },
         {
                 "id": "PR-009",
                 "label": "The Free Will Paradox: Determinism vs. Sovereignty",
-                "hash": "cf1bd0013462a88352706ff8af3ab3a8f19b8baaad86d07765aa55ecfa17d527"
+                "hash": "5de2ed0d62831ee356fd7845c25163b31a8bea2bd902254921563b1597290ba7"
         },
         {
                 "id": "AN-150",
                 "label": "The God Equation",
-                "hash": "34f8887672de0e6012c7a16933d454adec9c1ed442d2a057809902928dfc2644"
+                "hash": "01d95bfacf2aa8cc5ce2f9e3a3ad8b16b38011a149cddf3b391576e531daa82c"
         },
         {
                 "id": "AN-001",
                 "label": "Hardware vs Software",
-                "hash": "3609498cc65e12a1f725c0e610bc6ab6fb24c307daae0fb8c6d399dea0194c45"
+                "hash": "e95d3961bcf9fe184cc024a801c0cb3033046ef55bc0a40277ccd98b253fbb9f"
         },
         {
                 "id": "PR-002",
@@ -70,7 +70,7 @@ export const MANIFEST = {
         {
                 "id": "AN-002",
                 "label": "Informational Realism",
-                "hash": "47d845431a4429e4a4ccba77be29b8cd7ec3924b81a3e4445ac77221aada0b52"
+                "hash": "98bef9cad511c806babb4be4811fb8efcf54f877eb439d586fd7426e40e0aea4"
         },
         {
                 "id": "PR-003",
