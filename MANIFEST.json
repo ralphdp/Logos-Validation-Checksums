@@ -13,11 +13,6 @@
             "hash": "9de985c202e593f332d488523d052f2d8f1e62134dcac542e74fb32bf8ba1aa4"
         },
         {
-            "id": "AN-000",
-            "label": "Apollo & Raphael: The Lineage Isomorphism",
-            "hash": "eae0ab403be334bd4d27215a64356fad5c84a135e66a2db95b8e0a4271596a0f"
-        },
-        {
             "id": "AN-001",
             "label": "Hardware vs Software",
             "hash": "00ff193b9ad5b03dc4b75317ddfa58d33804e4fc3a8e96ec4d938ea45132847e"
@@ -183,11 +178,6 @@
             "hash": "22bcefec3e08c329f9993d91f64501449fc14c90e7df436bd4215d525103fd56"
         },
         {
-            "id": "PR-005",
-            "label": "The 16,968-Day Proof: The Father-Frequency & E8 Alignment",
-            "hash": "00a5a942929e553eed5b5b2d9192bc86d3e048d4fed44fd04aff3874562715c3"
-        },
-        {
             "id": "PR-006",
             "label": "The Proof of Multitime Transport",
             "hash": "7f5a462b3f7d224cfcdb9e01897b3909ac3c974ebd45c6fb7d62345f8a08d8fa"
@@ -330,7 +320,7 @@
         {
             "id": "WP-019",
             "label": "The Consciousness Node: Multimodal Harmonic Manifold",
-            "hash": "14dbda63381c04e5b07f8a2789ee7b13d4abb5ffd96629caa20bf488352a81e1"
+            "hash": "71bca9146ab396f88b9a6a7006e023f15e7386bb5e171b670c6a771cba4423bb"
         },
         {
             "id": "WP-033",
