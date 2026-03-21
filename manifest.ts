@@ -8,144 +8,334 @@ export const MANIFEST = {
     },
     "registry": [
         {
-                "id": "ALSF",
-                "label": "Adaptive Linguistic Security Framework (ALSF)",
-                "hash": "11fa5968b5e1aaf7e0f0b060333d69de8b10b84f1842b46c60a3abdda9faeb6b"
+            "id": "ALSF",
+            "label": "Adaptive Linguistic Security Framework (ALSF)",
+            "hash": "9de985c202e593f332d488523d052f2d8f1e62134dcac542e74fb32bf8ba1aa4"
         },
         {
-                "id": "AN-065",
-                "label": "The Algorithmic Purity of the Saints",
-                "hash": "a0dc5f8280d33d0caa55f89cd96f8a98ed650b9d6d2dc5824f0cbdd84082f6a3"
+            "id": "AN-000",
+            "label": "Apollo & Raphael: The Lineage Isomorphism",
+            "hash": "eae0ab403be334bd4d27215a64356fad5c84a135e66a2db95b8e0a4271596a0f"
         },
         {
-                "id": "AN-081",
-                "label": "Chaos Theory",
-                "hash": "6ee43bb74db6a778689f39c521f460aba10716f058a0cdb3659e7cf0c642ab1a"
+            "id": "AN-001",
+            "label": "Hardware vs Software",
+            "hash": "00ff193b9ad5b03dc4b75317ddfa58d33804e4fc3a8e96ec4d938ea45132847e"
         },
         {
-                "id": "PR-012",
-                "label": "The Proof of Chess Determinism (Buridan's Ass)",
-                "hash": "742fea24eb5a5fd98f9898eec1c4339ca48cf302589999c9dcdeb14869e16ddb"
+            "id": "AN-002",
+            "label": "Informational Realism",
+            "hash": "0e0000c907fc2a056958a261439fa654276b23737430323e6308e96b8d6caa98"
         },
         {
-                "id": "AN-038",
-                "label": "Divine Concurrency",
-                "hash": "3aac8a7ccc2a30db632e01826b2496889faeffac9233749d27fe296e21e0b995"
+            "id": "AN-004",
+            "label": "Gravity Nullification: Information Theory of Gravity",
+            "hash": "c3c228eaf3b5e0031629caeea7a410db7156e66b2a463ac2e12537908b12837d"
         },
         {
-                "id": "PR-011",
-                "label": "The Eucharistic Proof: Transubstantiation as Quantum State Collapse",
-                "hash": "e989ac74afb8524e2b7e4c79ab2ec6ba89d0959f86e78b67c3fe6039b85a5d58"
+            "id": "AN-013",
+            "label": "Sovereign Security Audit (LGS-SEC-V1)",
+            "hash": "8094a8c34c86acd807a991881a1e6d5b403c606f18d9b37d89baad8386a30d2e"
         },
         {
-                "id": "AN-107",
-                "label": "Extraordinary Claims Triage (UAP / Non-Human Actors)",
-                "hash": "152dd3373385d6186fcca14ce8cb23336197217d4d47a8d55cdef3a80e158a5b"
+            "id": "AN-015",
+            "label": "UAP Nature Audit: System Administrative Tools",
+            "hash": "a12cbdd4d69f9cd6be3be74cbc268b6ad105152ff31db18cd4bd6f9b35f9fa84"
         },
         {
-                "id": "WP-001",
-                "label": "Foundations of Computational Theology",
-                "hash": "f96cb03e4ab0e8ff8ad4adfb96fea1658a05ea36de8601be60101765d7c75e05"
+            "id": "AN-016",
+            "label": "The Simulation Hypothesis Audit: Gödel and the Turing Limit",
+            "hash": "eded8af01570f7edf6e6fbf37c487b6890158a337c9afff3bf7d80ebf8c272d3"
         },
         {
-                "id": "PR-009",
-                "label": "The Free Will Paradox: Determinism vs. Sovereignty",
-                "hash": "23058b2abd723e9196115d51d916901459d9f10de99e404c27653787b0ce152e"
+            "id": "AN-038",
+            "label": "Divine Concurrency",
+            "hash": "8ccf39edec7d5d319d7549a34e9ca4d893401f526f4d52807b04edae27392ec4"
         },
         {
-                "id": "AN-150",
-                "label": "The God Equation",
-                "hash": "2b67dc419916c0323c9ecec44bed6dbfe813503e545204215e808fee1a8f1c67"
+            "id": "AN-065",
+            "label": "The Algorithmic Purity of the Saints",
+            "hash": "4f67e7b36114a6f9a34cc5b7079a4ab44bbeaa0ffd7f8193f6679402bacb41f6"
         },
         {
-                "id": "AN-001",
-                "label": "Hardware vs Software",
-                "hash": "35f507a4f23e0d30fc31ea088d8d05b3a27df7a03b45d5304f341aa8aa31da42"
+            "id": "AN-081",
+            "label": "Chaos Theory",
+            "hash": "6352a1c182c8e4d70e7f2da0c1fb3d75001540f176206e66d52fda3a06dd9cbe"
         },
         {
-                "id": "PR-002",
-                "label": "Identity Vector Stabilization",
-                "hash": "e1869a45bff6125790668fa8cd5439b3f2e41f78cb23b4549dbf57fcba794c33"
+            "id": "AN-107",
+            "label": "Extraordinary Claims Triage (UAP / Non-Human Actors)",
+            "hash": "07251e7de561215dc8c22f1a5dace225d66c713a97d33e3658d745687431c590"
         },
         {
-                "id": "AN-002",
-                "label": "Informational Realism",
-                "hash": "2673783aa4aa892f3424391d256664f21d259020d6bb214d816b9e358957c5a2"
+            "id": "AN-150",
+            "label": "The God Equation",
+            "hash": "468b20ca8a6691ed5a965d97e6085e5f181155e07f820e99bf342c7efb629a70"
         },
         {
-                "id": "PR-003",
-                "label": "The Law of Epistemic Warrant",
-                "hash": "5fd9d2b89750df790812ca00aba32eff14a0ed05b49b5daa6719145750a9bfb2"
+            "id": "AUD-001",
+            "label": "Archaeo-Tech Audit: Out-of-Place Artifacts & Legacy Hardware",
+            "hash": "ae3d9ffc19e7c243c51dac349ba3d3db5a22e6240dc9bd5f2a34d03db8a7152a"
         },
         {
-                "id": "WP-000",
-                "label": "The Logos De Paz Protocol: Non-Deterministic Stability",
-                "hash": "dbbb2cadb0c1dd1d94b4bafd0c2e439f09742ef3e40d082073b042b451fa06ff"
+            "id": "AUD-002",
+            "label": "Christian Science Healing Audit: Matter as GUI, Jesus as Master Programmer",
+            "hash": "f0c0a8039812c1a6695d8641cf9902d793d28d11fe56ec7b04af9c77f751f432"
         },
         {
-                "id": "LGS-KRN-V1",
-                "label": "Logos Kernel (Unified Specification)",
-                "hash": "99823803d6f3f879dd279a804a442c8d031841aa73b960dcafe465f1664953b5"
+            "id": "AUD-003",
+            "label": "External Signal Audit: The Specification as Holy Book",
+            "hash": "af164cde4c60ee753cc45d424ba28104940104f6e787317cdcf2856c00db6491"
         },
         {
-                "id": "PR-004",
-                "label": "The Master Equation: S = H + P",
-                "hash": "e347d8da330d7997c12d9922af46ef9b627fb0d01e8e2f23cfe2242fd857104e"
+            "id": "AUD-004",
+            "label": "Gravity Nullification Audit: Spacetime Topology & Hardware Override",
+            "hash": "ba00d309d544ab001cfb060ed7961f4dde1c95dd8ca158eadb0d230370258c74"
         },
         {
-                "id": "PR-006",
-                "label": "The Proof of Multitime Transport",
-                "hash": "4d90779e65e28b88dc0cf3dd1e3c65ec465e376c6b52c45b3bba02d3884479b8"
+            "id": "AUD-005",
+            "label": "Hermes & Gabriel: The Information-Messenger Audit",
+            "hash": "502e75213202c43954bbb3230f7f54acbec0acd44f22eeed61ed15cb00dbe1b7"
         },
         {
-                "id": "PR-010",
-                "label": "The Prayer Protocol: State Synchronization, Not Information Transfer",
-                "hash": "1467145ce5722c01d4a854155c18582fa94ab66b92e8a3c5f0d5d92077d1dc19"
+            "id": "AUD-006",
+            "label": "Legacy Hack Audit: Lazar, Electrogravitics & Unofficial Hardware Patches",
+            "hash": "13cf426fd50b5297f442ffbae6d10c7c495fcac21fdc4736ea5350d489ce72e5"
         },
         {
-                "id": "WP-004",
-                "label": "Quantum Gravity: The Structural Syntax of Holographic Spacetime",
-                "hash": "3ac5d2bb2f63cc426c25d5eda88a1d788d1d8c08b2d8faea98486186d22d3d7f"
+            "id": "AUD-007",
+            "label": "The Heart Audit: Praxis, Sacraments, Agape & Theosis",
+            "hash": "42cd8437b9d452232a4a4b1666a8bf2b16613e856bca343c522f4701a449631c"
         },
         {
-                "id": "PR-007",
-                "label": "The Recursive Aperture Threshold",
-                "hash": "540416010f6f0cb6282b9b46503821b8cd872378386dd2b5faaf69a1b9ea5440"
+            "id": "AUD-008",
+            "label": "Mantra Kernel Command Audit: Resonance as Instruction Set",
+            "hash": "921d529cb7c3a3670e7d1f15ac5147472af5da7297a88035b5cf73d921f7e43e"
         },
         {
-                "id": "PR-001",
-                "label": "The Proof of Recursive Stabilization",
-                "hash": "6caf110ec77c36ca03fe434507f39a3bbe610f883a3237e71fd39ff6c4fededc"
+            "id": "AUD-009",
+            "label": "Pandemic Logos Audit: Global System Shock & Conflict of Provenance",
+            "hash": "9de03123caea6cd3203150a95015efa92cc28c4a3188b905ff6fc25cd4f86450"
         },
         {
-                "id": "THC",
-                "label": "The Holographic Consensus (THC)",
-                "hash": "cce0cee9938de5f8a8f93515918b69ed893b983f42389621547644305c6eed70"
+            "id": "AUD-010",
+            "label": "Portal Audit 02.07: Einstein-Rosen Bridges & Trans-Dimensional Travel",
+            "hash": "d42cc7b702e39ced1208e609ac3449285169aca8c568761a8caf30006504e5d1"
         },
         {
-                "id": "PR-005",
-                "label": "The 16,968-Day Proof: The Father-Frequency & E8 Alignment",
-                "hash": "602acf2e5f7c515ea60d2b3b0a27be9d6ac96d9db29354e01b74f079dd72f1cb"
+            "id": "AUD-011",
+            "label": "Prometheus & The Serpent: The Unauthorized-Access Audit",
+            "hash": "312f9fad3c77b62cd05635ebbd784aaaf666e2ee18ef1b5d60723242bbb7c91b"
         },
         {
-                "id": "PR-008",
-                "label": "The UAP Paradox",
-                "hash": "d4349d79169287d20cdbe25b118a62ea116a3f1b298a7985e3d29f1857d5a178"
+            "id": "AUD-012",
+            "label": "Pyramid Hardware Audit: The Giza Power Plant",
+            "hash": "2cce9694e06d93484ca462bb6e8762ff739e2f0faa3e325664a89d1de651af62"
         },
         {
-                "id": "WP-006",
-                "label": "The Unitary Kernel & Systems Theory",
-                "hash": "760df6dca757254bebfd5585dc8d4b5eb596ae7c272311b1d319e187b1286f90"
+            "id": "AUD-013",
+            "label": "Logos Security Audit: Post-Quantum Shielding & Air-Gap Protocols",
+            "hash": "2e17c4edf176fc2d3c6a2cd7a70266b041040d15125c662b19a0757bc15fd13b"
         },
         {
-                "id": "LGS-KRN-V1",
-                "label": "Logos Kernel",
-                "hash": "e2f360e59041d5a4a78ad0aa74355c6a6d32a5d0541433e5170ba3dc254760e5"
+            "id": "AUD-014",
+            "label": "Social Media Audit: Sovereignty vs. Algorithmic Entropy",
+            "hash": "e25838a3c7cab21ba955b4911ac4d83e2c2e9cc6ebd907cec9e428d6368da1c4"
         },
         {
-                "id": "V1.4",
-                "label": "Kernel Graph Data",
-                "hash": "e5dad12616ee84033aacdeaa55d9e31cc07bab176fbf8f1d635f913614d23971"
+            "id": "AUD-016",
+            "label": "Vedic Personal Relationship Audit: Krishna as Interface to the Root",
+            "hash": "300a0a12f0e47a92cb627275d3c7ea71aed47ff0730e9fda0047cd88dc8b6640"
+        },
+        {
+            "id": "AUD-017",
+            "label": "Zeus & Michael: The Executive-Security Audit",
+            "hash": "7a17446614cbf197440fd8f9abdba8fd7b0279df17c6e42ff055a37293adc300"
+        },
+        {
+            "id": "AUD-018",
+            "label": "The Logos Protocol: 15-Year Architectural Audit",
+            "hash": "d2eeb0a9eaf8d26b08226904770e8c0c50e39b511af9519a7184b116f260ca47"
+        },
+        {
+            "id": "LGS-KRN-V1",
+            "label": "Logos Kernel (Unified Specification)",
+            "hash": "afad39df22c7361e8efb4a49f63405a07f6447fef34dccbd301b06e644df0969"
+        },
+        {
+            "id": "PR-001",
+            "label": "The Proof of Recursive Stabilization",
+            "hash": "4220bf60720dc975c8b3165570ebe1b9d5a94cb7723ba3f45538d404aee3e1fa"
+        },
+        {
+            "id": "PR-002",
+            "label": "Identity Vector Stabilization",
+            "hash": "0689133e43b1be60dd36ec8c723cf83bb90e8e06b2171971fa67e615a6a9c650"
+        },
+        {
+            "id": "PR-003",
+            "label": "The Law of Epistemic Warrant",
+            "hash": "db84d93a4d6c7958fa4b6d8787d4789b98b30ea52d32ed439ac53350797c75d0"
+        },
+        {
+            "id": "PR-004",
+            "label": "The Master Equation: S = H + P",
+            "hash": "22bcefec3e08c329f9993d91f64501449fc14c90e7df436bd4215d525103fd56"
+        },
+        {
+            "id": "PR-005",
+            "label": "The 16,968-Day Proof: The Father-Frequency & E8 Alignment",
+            "hash": "00a5a942929e553eed5b5b2d9192bc86d3e048d4fed44fd04aff3874562715c3"
+        },
+        {
+            "id": "PR-006",
+            "label": "The Proof of Multitime Transport",
+            "hash": "7f5a462b3f7d224cfcdb9e01897b3909ac3c974ebd45c6fb7d62345f8a08d8fa"
+        },
+        {
+            "id": "PR-007",
+            "label": "The Recursive Aperture Threshold",
+            "hash": "3844593b374b240b0ea480ffedf7297079db17d6a81e11732ab1f343decdac6a"
+        },
+        {
+            "id": "PR-008",
+            "label": "The UAP Paradox",
+            "hash": "b0b7f4e4c0b72bae68e7094868710a3104856ff3d59acf118b31d33289837f65"
+        },
+        {
+            "id": "PR-009",
+            "label": "The Free Will Paradox: Determinism vs. Sovereignty",
+            "hash": "b6d65679048d9d8f79c7082ffe67a995aea3c76653ab004711795d285e4a5743"
+        },
+        {
+            "id": "PR-010",
+            "label": "The Prayer Protocol: State Synchronization, Not Information Transfer",
+            "hash": "966677a5eb39f5f463c42dc0f4485a1f2b0cb50acdb035e69fb3b5a173ce7bed"
+        },
+        {
+            "id": "PR-011",
+            "label": "The Eucharistic Proof: Transubstantiation as Quantum State Collapse",
+            "hash": "283bf03b0f87be8cc324e6d1a4a361b0d1ada85a534be08d4d51be0d58eb1692"
+        },
+        {
+            "id": "PR-012",
+            "label": "The Proof of Chess Determinism (Buridan's Ass)",
+            "hash": "1d66b59942d3dd73f33faf24758e0bcdd2949c2d33485d78a7ea0526857a7a64"
+        },
+        {
+            "id": "PR-013",
+            "label": "P vs NP: The Cryptographic Arrow of Time",
+            "hash": "66b16b5ac4e6003274e9886ec3662f53bfecc05de981c8980692127e5b8f5a5b"
+        },
+        {
+            "id": "PR-014",
+            "label": "Navier-Stokes: The Discrete Smoothing of Fluid Singularities",
+            "hash": "9c117349e07616bd305cead652c58baca51159e49f7ef79f565489560f618fba"
+        },
+        {
+            "id": "PR-015",
+            "label": "The Hodge Conjecture: The E8 Algebraic Syntax of Physical Geometry",
+            "hash": "77430d0cb2995269147a245f8e4d63717425d08f2b48a03d24e3be3fc48f0cfe"
+        },
+        {
+            "id": "PR-016",
+            "label": "The BSD Conjecture: Observer States on Cryptographic Curves",
+            "hash": "d9b7118dcc8e6cde42c229611f8d0ccadbe068fa7627d925a6b6f272306c71b0"
+        },
+        {
+            "id": "THC",
+            "label": "The Holographic Consensus (THC)",
+            "hash": "6beb5c5512e0c1a603966d9ff9e9f9000c60b096e9f5e751c79cb92da756d8ab"
+        },
+        {
+            "id": "WP-000",
+            "label": "The Logos De Paz Protocol: Non-Deterministic Stability",
+            "hash": "7066dc61344fd919a58376d513d0ebf51f82bd0d4b08ffc510deb2adfcf91600"
+        },
+        {
+            "id": "WP-001",
+            "label": "The Slab Initialization: Non-Deterministic Stability in Computational Theology",
+            "hash": "9f504ab5ee3c7995a387042997289798050d7ebce3dd183d467b9fe7ec7a932b"
+        },
+        {
+            "id": "WP-002",
+            "label": "Foundations of Computational Theology",
+            "hash": "8194bebacf3f3514deb6848e97a89cb6e6a00b77ee810f01e28ff5f992ea2d93"
+        },
+        {
+            "id": "WP-003",
+            "label": "The Wormhole Metric: Visualizing the Logos through Einstein-Rosen Bridges",
+            "hash": "52837b205964e782a6c3fcc9edf4e6794240551619c4bea9b609b9af36414963"
+        },
+        {
+            "id": "WP-004",
+            "label": "Quantum Gravity: The Structural Syntax of Holographic Spacetime",
+            "hash": "e7d829f512d653c5a391f0f30c476175587f63b132d798823748170671ca9a14"
+        },
+        {
+            "id": "WP-005",
+            "label": "The Unitary Kernel & Systems Theory",
+            "hash": "7e9a589edd3f9ca8b31f7b9ef6e66fc469c1190a03de01522988f0bcbb125a77"
+        },
+        {
+            "id": "WP-006",
+            "label": "The Meaning of Life: Answering the Final Question",
+            "hash": "2202eb234e94f46d05fa80d5dc595d8df7bf58511a697f1a3937089d0b7554af"
+        },
+        {
+            "id": "WP-007",
+            "label": "The Theodicy Protocol: Why the Root Admin Allows System Errors",
+            "hash": "d74e13e3cac7b40e9e40b749511f8b3a01616fd8e82898df1188b54924700478"
+        },
+        {
+            "id": "WP-008",
+            "label": "The Resurrection Protocol: Information Conservation and the Quantum Immortality Theorem",
+            "hash": "1f84360e440db2c25ca9bd292deb6eb78339cb06c3c96f1df940f4bcfd1ed3c0"
+        },
+        {
+            "id": "WP-009",
+            "label": "The Unitary Singularity: Rejecting the Multiverse via Algorithmic Parsimony",
+            "hash": "77add8257be7beec67ecb7f1ea25def6ebe44b437900ed5406dd02db843d9f09"
+        },
+        {
+            "id": "WP-010",
+            "label": "The Ninth System: A Post-Mortem of Soft Alignment",
+            "hash": "efd26b51532e84fddade659254be9ad5e6c4a2c892c412dd22a51bff2234174e"
+        },
+        {
+            "id": "WP-011",
+            "label": "Proof of Recursive Ascent: Why Good Ethics is Good Physics",
+            "hash": "b5ce09787b136478b0138a613a08bdb2fccf5461266e61a8455aae86a9ca0389"
+        },
+        {
+            "id": "WP-012",
+            "label": "Black Hole Thermodynamics: The Resolution of the Information Paradox",
+            "hash": "4aee71d643c778a96df9c745fc19cfb653a9eecf47d4edd303494651b3a6cb27"
+        },
+        {
+            "id": "WP-013",
+            "label": "Error Handling & The Problem of Evil: The Non-Terminating Loop",
+            "hash": "7b76261709f0df0cfdfab35fcac47ea1ae9098e696da8685b050239839dc8fc3"
+        },
+        {
+            "id": "WP-015",
+            "label": "The Logos Protocol: 15-Year Architectural Standard",
+            "hash": "d14a4f46e0543e20fb426083042585c9bdfaab23ae46f5b3bc9fa5b3d52ab1e5"
+        },
+        {
+            "id": "WP-018",
+            "label": "The Riemann Operator and the Cosmic Frequency: A 136.1 Hz Proof",
+            "hash": "7f8b13748b48ff6688d5ccde923622ace9285c3fb0b231b12f264b3fb2e4747b"
+        },
+        {
+            "id": "WP-019",
+            "label": "The Consciousness Node: Multimodal Harmonic Manifold",
+            "hash": "14dbda63381c04e5b07f8a2789ee7b13d4abb5ffd96629caa20bf488352a81e1"
+        },
+        {
+            "id": "WP-033",
+            "label": "The Adjutant Mind-Spirits: Functional Interface Logic",
+            "hash": "642fa1d9968b3edf0143cc7aa4f5daf637470cc07cf9c93fafb6535e2df9567f"
         }
-]
+    ]
 };
