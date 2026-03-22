@@ -260,7 +260,7 @@
         {
             "id": "WP-004",
             "label": "Quantum Gravity: The Structural Syntax of Holographic Spacetime",
-            "hash": "e7d829f512d653c5a391f0f30c476175587f63b132d798823748170671ca9a14"
+            "hash": "3c8fb6b96a35c1fe60b1d99bbc0f74ebf19354fc6d212806ae07eaaa325d65a0"
         },
         {
             "id": "WP-005",
@@ -326,6 +326,11 @@
             "id": "WP-033",
             "label": "The Adjutant Mind-Spirits: Functional Interface Logic",
             "hash": "642fa1d9968b3edf0143cc7aa4f5daf637470cc07cf9c93fafb6535e2df9567f"
+        },
+        {
+            "id": "PR-QG",
+            "label": "Formal Proof: The Unified Field (Quantum Gravity PDF)",
+            "hash": "49dbe07f76d7cde630ebb2d7b35dab303677819a7c4f5b1c34cd5f05b4c709a8"
         }
     ]
 }

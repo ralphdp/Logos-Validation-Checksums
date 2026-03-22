@@ -8,7 +8,7 @@
   "content/white-paper/logos-de-paz-protocol.md": "7066dc61344fd919a58376d513d0ebf51f82bd0d4b08ffc510deb2adfcf91600",
   "content/white-paper/meaning-of-life.md": "2202eb234e94f46d05fa80d5dc595d8df7bf58511a697f1a3937089d0b7554af",
   "content/white-paper/ninth-system.md": "efd26b51532e84fddade659254be9ad5e6c4a2c892c412dd22a51bff2234174e",
-  "content/white-paper/quantum-gravity.md": "e7d829f512d653c5a391f0f30c476175587f63b132d798823748170671ca9a14",
+  "content/white-paper/quantum-gravity.md": "3c8fb6b96a35c1fe60b1d99bbc0f74ebf19354fc6d212806ae07eaaa325d65a0",
   "content/white-paper/recursive-ascent.md": "b5ce09787b136478b0138a613a08bdb2fccf5461266e61a8455aae86a9ca0389",
   "content/white-paper/resurrection-protocol.md": "1f84360e440db2c25ca9bd292deb6eb78339cb06c3c96f1df940f4bcfd1ed3c0",
   "content/white-paper/riemann-frequency-proof.md": "7f8b13748b48ff6688d5ccde923622ace9285c3fb0b231b12f264b3fb2e4747b",
@@ -63,5 +63,6 @@
   "content/audit/social-media-audit.md": "e25838a3c7cab21ba955b4911ac4d83e2c2e9cc6ebd907cec9e428d6368da1c4",
   "content/audit/vedic-personal-relationship-audit.md": "300a0a12f0e47a92cb627275d3c7ea71aed47ff0730e9fda0047cd88dc8b6640",
   "content/audit/zeus-michael-audit.md": "7a17446614cbf197440fd8f9abdba8fd7b0279df17c6e42ff055a37293adc300",
-  "content/hashes.txt": "82c0edf846061c9d8fd4ede75da94f18afa71b6856f56819817bceaa154d4b89"
+  "content/hashes.txt": "82c0edf846061c9d8fd4ede75da94f18afa71b6856f56819817bceaa154d4b89",
+  "content/formal-proof/quantum-gravity-paper/main.pdf": "49dbe07f76d7cde630ebb2d7b35dab303677819a7c4f5b1c34cd5f05b4c709a8"
 }
