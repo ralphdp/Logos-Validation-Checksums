@@ -326,11 +326,6 @@ export const MANIFEST = {
             "id": "WP-033",
             "label": "The Adjutant Mind-Spirits: Functional Interface Logic",
             "hash": "642fa1d9968b3edf0143cc7aa4f5daf637470cc07cf9c93fafb6535e2df9567f"
-        },
-        {
-            "id": "PR-QG",
-            "label": "Formal Proof: The Unified Field (Quantum Gravity PDF)",
-            "hash": "49dbe07f76d7cde630ebb2d7b35dab303677819a7c4f5b1c34cd5f05b4c709a8"
         }
     ]
 };
