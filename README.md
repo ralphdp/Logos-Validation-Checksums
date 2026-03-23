@@ -79,6 +79,12 @@ As of February 11, 2026, the following SHA-256 checksums represent the **Termina
 | **The Consciousness Node: Multimodal Harmonic Man...** | WP-019 | `60c6b42935fef5232365d609c381c40a08d91f73b74cc15f8ac630e4ebe93772` |
 | **The Adjutant Mind-Spirits: Functional Interface...** | WP-033 | `ee2c6ae55a7e95f258bc693b0af625f4aeb794104469eb1f40c83610b2ce5f46` |
 
+### Formal Papers Cryptographic Ledger
+
+The rigorous mathematical proofs, computational theology, and physics theorems underlying the Sovereign framework are hashed and tracked within a strictly isolated ledger. This payload permanently ties the LaTeX source substrates to their deployed Vercel Blob binaries:
+
+[**`RDEPAZ-FORMAL-PAPERS-CHECKSUMS.json`**](./RDEPAZ-FORMAL-PAPERS-CHECKSUMS.json)
+
 ## Integrity Verification
 
 To verify the authenticity of a document, run the following command on your local copy:
