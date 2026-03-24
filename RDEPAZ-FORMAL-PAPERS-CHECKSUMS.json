@@ -1,5 +1,5 @@
 {
-  "bsd-conjecture-paper": "9d012125d17d3a1859e56687f1f3eb0120381135d642ae9648d6b1613de091e8",
+  "bsd-conjecture-paper": "a60f37752ff44d825924af95635de587b68469e68d70d28ed460edf3a6c1a450",
   "chaos-determinism-paper": "d27aa2c2028906141bf94a26ed8618444341b7ca7d4a17fa07845cc3cdf144bc",
   "cognitive-sovereignty-mesh-paper": "17c9edf47048fdc23f0e7b8619bc458fabf2b1fbe0ee9236514cb3cc36d014c3",
   "collatz-attractor-paper": "74c639471392d6c6cea30606f5b85922b9bccfaf81874480360e8388229a6522",
@@ -16,18 +16,18 @@
   "generational-lineage-os-paper": "89396fe9f4f473a43a83f9238bf5cc979c04562a4e6d4965a31292aad7182824",
   "grace-protocol-dual-track-paper": "a01f1cb068c5846e6e9b35f4e30ef9a0b71e2cea70544d5b667017c3b412c5aa",
   "gradient-transport-destiny-paper": "7cf9374e560d63cc36334a466aa709df87357f5dd106f30397b330e3b3404055",
-  "hodge-conjecture-paper": "c3d0965f9f1acfaec9b66a238c652bc739a4831b19e68686d7655b39de5621cf",
+  "hodge-conjecture-paper": "56f4025c56172fc52f6dfea50f647254520f8c020e0e0707ffcdb6a3eb870039",
   "information-theoretic-gravity-paper": "62d2de5fed7b54e09331404d233376b7499570dd13d3fb55a22d6bf8d7147d67",
   "invariant-destiny-subspace-paper": "cd9902318e8481cbfb723fe36c4f0a5907d1bdde3f1e0685cb9a22e8b02ed833",
   "isomorphic-hardware-tethers-paper": "603a239db3cdaed7ee7f3f525116c558cea87029174a3ef4fe87e4ff97ddd65e",
   "multitime-transport-paper": "c4149cb59a57a891bbe9189982c08669b7c6543208dceda4ab13c28b663e7496",
-  "navier-stokes-paper": "c8c5f50c0426f6a821609cc563a94af1e019f2e6b6f7ef6d19b2002ebc74ec80",
+  "navier-stokes-paper": "c07b08498ba4d0e1cf9f93c31bc55289423d31d73c3fb4a78cfc7aa5163fc1b5",
   "nile-protocol-distributed-grid-paper": "da6c2be2e52c5fa62193235b6881a8bf69c3995cdfa9870fbecb907be27ee8ca",
   "o1-validation-schema-caching-paper": "28b4771c06c7cc5e96a5104937fd2a6fdb135c7619d75512a46406208c78d261",
-  "p-vs-np-paper": "8025589f038d7239c222ff7f6ceb010e1216d55013e300b1fe01b13ccd855102",
+  "p-vs-np-paper": "a5ec836c8f25dc6fe5cc895e3628a9cde58007f90c6fd00b691f06074f69d7fa",
   "quantum-gravity-paper": "2f4e50f1c5c791d1cbec0f6192d309478f53246912003b468e6c1d5543e951bf",
   "resurrection-protocol-paper": "57edfbbc7d108157ce1d10224162848fc6e304625abdc96734019c05323f2b6d",
-  "riemann-hypothesis-paper": "01329cf5ca64692d06a62cb2e2c77ac69ca32c689ae34cc80476a789360e1cce",
+  "riemann-hypothesis-paper": "8cab87f09ae0e3132ae94e2b587cd018061e295d3f58d6658b668a6453860994",
   "simulation-hypothesis-paper": "57ea70c7dec720401c6c475904dcf54a3358ab560e3c5cf4ddb45a872e1c3492",
   "spectral-parity-clock-cycles-paper": "35899bf4c1a6f70f1fdf82283172125a6926946701c08d86de3d48273b9e8d46",
   "stochastic-destiny-paper": "4020df2d8b4a13ab69596a4c5cb4bd23e8bcc8f86c729727f7adda0c97a696ea",
@@ -36,5 +36,5 @@
   "thermodynamic-morality-paper": "c688e84f9c2c12114be8cf7daf1b6c7985e3871f6e2221906566add9e529aa09",
   "unitary-singularity-paper": "0c86e5863004ee23bbc4a47dad77bd81c6abc47bf4b7b9b9fcc62f56f133145f",
   "unknotting-grace-paper": "033ed60d051c93f12985a26c47e096f06d120bfa29409ebf605a0fddef53cb47",
-  "yang-mills-mass-gap-paper": "7dc7be42d3c70f8f263989a22d695165ce5c455af1eae52c853891dc21cbd311"
+  "yang-mills-mass-gap-paper": "edda18bd2cd06609a258e42d19db90ce70ba759cd0d84f53cd51db658274c82a"
 }

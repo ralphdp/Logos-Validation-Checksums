@@ -10,7 +10,7 @@ export const MANIFEST = {
         {
             "id": "bsd-conjecture-paper",
             "label": "BSD CONJECTURE PAPER",
-            "hash": "9d012125d17d3a1859e56687f1f3eb0120381135d642ae9648d6b1613de091e8"
+            "hash": "a60f37752ff44d825924af95635de587b68469e68d70d28ed460edf3a6c1a450"
         },
         {
             "id": "chaos-determinism-paper",
@@ -95,7 +95,7 @@ export const MANIFEST = {
         {
             "id": "hodge-conjecture-paper",
             "label": "HODGE CONJECTURE PAPER",
-            "hash": "c3d0965f9f1acfaec9b66a238c652bc739a4831b19e68686d7655b39de5621cf"
+            "hash": "56f4025c56172fc52f6dfea50f647254520f8c020e0e0707ffcdb6a3eb870039"
         },
         {
             "id": "information-theoretic-gravity-paper",
@@ -120,7 +120,7 @@ export const MANIFEST = {
         {
             "id": "navier-stokes-paper",
             "label": "NAVIER STOKES PAPER",
-            "hash": "c8c5f50c0426f6a821609cc563a94af1e019f2e6b6f7ef6d19b2002ebc74ec80"
+            "hash": "c07b08498ba4d0e1cf9f93c31bc55289423d31d73c3fb4a78cfc7aa5163fc1b5"
         },
         {
             "id": "nile-protocol-distributed-grid-paper",
@@ -135,7 +135,7 @@ export const MANIFEST = {
         {
             "id": "p-vs-np-paper",
             "label": "P VS NP PAPER",
-            "hash": "8025589f038d7239c222ff7f6ceb010e1216d55013e300b1fe01b13ccd855102"
+            "hash": "a5ec836c8f25dc6fe5cc895e3628a9cde58007f90c6fd00b691f06074f69d7fa"
         },
         {
             "id": "quantum-gravity-paper",
@@ -150,7 +150,7 @@ export const MANIFEST = {
         {
             "id": "riemann-hypothesis-paper",
             "label": "RIEMANN HYPOTHESIS PAPER",
-            "hash": "01329cf5ca64692d06a62cb2e2c77ac69ca32c689ae34cc80476a789360e1cce"
+            "hash": "8cab87f09ae0e3132ae94e2b587cd018061e295d3f58d6658b668a6453860994"
         },
         {
             "id": "simulation-hypothesis-paper",
@@ -195,7 +195,7 @@ export const MANIFEST = {
         {
             "id": "yang-mills-mass-gap-paper",
             "label": "YANG MILLS MASS GAP PAPER",
-            "hash": "7dc7be42d3c70f8f263989a22d695165ce5c455af1eae52c853891dc21cbd311"
+            "hash": "edda18bd2cd06609a258e42d19db90ce70ba759cd0d84f53cd51db658274c82a"
         }
     ]
 };
