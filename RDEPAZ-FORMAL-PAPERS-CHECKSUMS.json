@@ -1,177 +1,40 @@
-[
-  {
-    "filename": "bsd-conjecture-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "c2c9c5112cc4b92d4934068fc421606302ab87c7b92b046e67d63195ed2568ce",
-    "timestamp": "2026-03-23T09:40:28.355Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "chaos-determinism-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "47bff56362b9b17042c53fbb5aa5e55152d4e762a82e2e0d795a92f05368f233",
-    "timestamp": "2026-03-23T09:40:28.658Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "computational-theology-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "0d7a68e0179ec3a7398cfc75b8d202c06a1cddddadbac50cdcfb07177aa987d2",
-    "timestamp": "2026-03-23T09:40:28.996Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "consciousness-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "f8b5013b3bb02aa21de938937622b15ef5497789be072f8036072366ec962431",
-    "timestamp": "2026-03-23T09:40:29.304Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "cosmological-master-equation-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "dbe814c7b51f97d41236c10a42740d5b3dfe37dc97c34e0eca95b4d47c4a6234",
-    "timestamp": "2026-03-23T09:40:29.653Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "cosmological-parsimony-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "c1beb59f38839cc6e602fac13f1ea760455b8ca626bb15a1114892d3d31d9375",
-    "timestamp": "2026-03-23T09:40:29.931Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "discrete-frequency-divider-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "706b7a6e60d59f9d56f1a269335501f5f7d2a1722b03104104cf41f19eed7d1b",
-    "timestamp": "2026-03-23T09:40:30.195Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "divine-concurrency-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "9912d7d4a52f128367a76af549bfc6095ed5927b9fd631fd9a4dbafa2cac951e",
-    "timestamp": "2026-03-23T09:40:30.394Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "epistemological-triage-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "2f53f321808ea2601a24516f7517ba514eaf353b25a50045a69c256b9efc6d01",
-    "timestamp": "2026-03-23T09:40:30.691Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "free-will-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "a492b9ddfe0788c2e607bb49620392ebb747d34c4bd52eba72cdb9778e1731cc",
-    "timestamp": "2026-03-23T09:40:30.964Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "gradient-transport-destiny-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "5e501997a268ad61839392b6b09b5749c045acf7fe6408d5b4cedf4323c6631d",
-    "timestamp": "2026-03-23T09:40:31.227Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "hodge-conjecture-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "e4806487eeac3446ad366bdb65b46f8a5e2fbd82206bf92957940525301d48d2",
-    "timestamp": "2026-03-23T09:40:31.524Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "information-theoretic-gravity-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "b39ccd6d70f8021eeb3509256f390cb82b350efd0e618ad691eaf71bed8810f2",
-    "timestamp": "2026-03-23T09:40:31.826Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "multitime-transport-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "b81c73e66a9806bfe09db70aaa6f4ded83959615a3ce341434cf9d5f2604c81a",
-    "timestamp": "2026-03-23T09:40:32.158Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "navier-stokes-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "54552d5a655768df258d26e2fd5b4da66167dee0170d27ab91918fddd974c01f",
-    "timestamp": "2026-03-23T09:40:32.431Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "p-vs-np-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "9a4556d6f8d69ac14bcbdbaffab5a694222f452b10071a5435fee68fadd650d4",
-    "timestamp": "2026-03-23T09:40:32.717Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "quantum-gravity-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "ab3ff98e8cecd948503f58e8549239ef1c8fc3f402107dc9a10f7e23f3d706ff",
-    "timestamp": "2026-03-23T09:40:33.083Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "resurrection-protocol-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "e0bd9ac7bd1808a998d675982e9cb7f025fc1c08664ed5bc0e116626b8d2c55f",
-    "timestamp": "2026-03-23T09:40:33.379Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "riemann-hypothesis-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "01df8ad058fd3446cf62989504d0ec4e8f611cfee86e4d54fa9f72b348c064e8",
-    "timestamp": "2026-03-23T09:40:33.625Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "simulation-hypothesis-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "4f642cdfcb16362786c9a793f99c013f4e6c665611775849cc5c7f5af3e6719a",
-    "timestamp": "2026-03-23T09:40:33.843Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "stochastic-destiny-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "42af1f703ec78b593284b28b2d727893a5c848fc1df4d52cbb3d353dc4ced97b",
-    "timestamp": "2026-03-23T09:40:34.127Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "theodicy-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "8f237775d7cebef7fc25c75bc6bd0ac47a7eee7282229f5175f25ca510d4d924",
-    "timestamp": "2026-03-23T09:40:34.408Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "thermodynamic-morality-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "c3aed78d4f41a4e6e9d0a44f9f46535ee8c8bf1f7c7fd78e3d2e59181ed98095",
-    "timestamp": "2026-03-23T09:40:34.614Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "unitary-singularity-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "fe7abb8597fa975d81b2ebc224ffb1465c268ea6ac647675fea7afad43a73a0e",
-    "timestamp": "2026-03-23T09:40:35.007Z",
-    "status": "READY FOR PUBLICATION"
-  },
-  {
-    "filename": "yang-mills-mass-gap-paper.pdf",
-    "hash_algorithm": "SHA-256",
-    "checksum": "c559fab938964b115bec13401c6d46113f3b74f9ac8f3e6ccab0c990356cf524",
-    "timestamp": "2026-03-23T09:40:35.288Z",
-    "status": "READY FOR PUBLICATION"
-  }
-]
+{
+  "bsd-conjecture-paper": "799f536e85773583be8e9d0311ef284348340ceb9760a66fe63fdadd2ef1cd09",
+  "chaos-determinism-paper": "d27aa2c2028906141bf94a26ed8618444341b7ca7d4a17fa07845cc3cdf144bc",
+  "cognitive-sovereignty-mesh-paper": "17c9edf47048fdc23f0e7b8619bc458fabf2b1fbe0ee9236514cb3cc36d014c3",
+  "collatz-attractor-paper": "74c639471392d6c6cea30606f5b85922b9bccfaf81874480360e8388229a6522",
+  "computational-theology-paper": "b1d9a0171a64cc4c2e8e471a87c73804bee34ffb25b40a96565394171216defe",
+  "consciousness-paper": "4ab0e27b8916fd7de9f1925fd03779badbc9d218b63fe03f3eacda0ca455f421",
+  "continuum-logos-hierarchy-paper": "475b2b39a73e0db98ed64a4ae95dd8a8f6298b7967153b91031f1e87cf6b3309",
+  "cosmological-master-equation-paper": "a1b54ddabb83b76b3fdf28f956fe4f3c97fb55461408e7a3a8d197c73b68948e",
+  "cosmological-parsimony-paper": "5eb0fe0d8bee092cb0489a59480e5fcc18724ffcd8d9951aa20b0426ad2089c8",
+  "discrete-frequency-divider-paper": "20c470a18ad2fc48366f1d9069b910d7c8810e7927506524685fbec164c7d3f8",
+  "divine-concurrency-paper": "fb79159984559406e435d16f5e3821d9f9c9d98c0d45b56f4a9a5f7b300d0dfd",
+  "e8-kissing-number-holographic-paper": "641320be0aa2c40d627084618d06b1754b5ba2f7437cc25df7adb3916a649f0f",
+  "epistemological-triage-paper": "c1392791a40faa03f00e8e6218529dfdf52c998bc7b2e342fc2a2ae0163a7602",
+  "free-will-paper": "870dee208d9a3f0e0a8ab1abcf26792be72516171f1f0266b985237504aeaa21",
+  "generational-lineage-os-paper": "c49d08527383d67895038157ad9079dd5fa293db4cbe49fef24725a87e604350",
+  "grace-protocol-dual-track-paper": "7a8229d1fd59c6da27e2dac8493924c28e8ae313fb0252048dee3b248a8ddc07",
+  "gradient-transport-destiny-paper": "773bff8ee484fd70398a444c244fc58ac9aa4cf8370dbcc559402ee3ae4fc8c9",
+  "hodge-conjecture-paper": "3cc54152cdd9ba1717df403c109772153ca2e033ff53999aaf1d016fa3bf54e0",
+  "information-theoretic-gravity-paper": "89442947dd8a1b286c2a06f5dbb2a2cedece17f6916394c26de8ee91c8b02ad2",
+  "invariant-destiny-subspace-paper": "a811d6c46d8397950ddaa17c3e9c4082bcaf8bc681eba8da0b21ac1c69128b81",
+  "isomorphic-hardware-tethers-paper": "61fd9bf5692af3aed7a2d760d6d2bdaef33d8f702c83b1500b0f07e089bf4822",
+  "multitime-transport-paper": "2d9ea50927a25b83df476259afdfee2edba125fbaed1f210937a5a458eef3a24",
+  "navier-stokes-paper": "a711400e55c891be041422ba67ac71d1af4117c87b07c630bea804501c5a97e0",
+  "nile-protocol-distributed-grid-paper": "e964ee0185546743a57a98373a956ba77b38e9b7dd5c975a6fd21abd14da2075",
+  "o1-validation-schema-caching-paper": "e92e4eb62ae956e24be5ceb12af8de12c840fef247467e66e2a73f696229c83a",
+  "p-vs-np-paper": "cdcf9f4f2276bda01f3f4a6c892bfe526d2ef1fc98f363c76e603c2af30e8dd2",
+  "quantum-gravity-paper": "b997dfc32c294a6fddb420bfb6fd24505a75468ba68cba473864c29e1e031b30",
+  "resurrection-protocol-paper": "e4f029fb2b2841c374efd7060a90d9dbd8f9ffdaf260bc9f0e2a4debeaa25eaa",
+  "riemann-hypothesis-paper": "2f4809c9bdea1d17aa0893b17d74ee4bf8ea80e656794f0aa883a0d6bfbd06b4",
+  "simulation-hypothesis-paper": "9d62a30ebe7fbeb3a99cb5bc99b810e83ec59748a3fb3b5ffb3bc47bb8db8781",
+  "spectral-parity-clock-cycles-paper": "024214573ae43223880904fd857b91f180cc5ec6c945e25ac8ed931eb44d67b8",
+  "stochastic-destiny-paper": "b6dac8be899fdb7cbdb772ffea13333271359b9ce109362dccfc9cc21d93a91d",
+  "subtractive-architecture-paper": "5e65e9fdfa73cd565875f179645bc600d2d5e0317926f07b4d41a19c0729e12c",
+  "theodicy-paper": "3ddfcc6065e584fc0b4c968064ea8819c6add049417d4ecae7483c26245fd9c6",
+  "thermodynamic-morality-paper": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "unitary-singularity-paper": "977750b2e311950b2a766c3473422478fbfd98e8e191f5f512fe5cc2a70cfd70",
+  "unknotting-grace-paper": "cf3ac0c03d66f78a6a0e7c5bba0a3392dd2d58b743067e6a9e3b46a04e6ef9d5",
+  "yang-mills-mass-gap-paper": "d9cab312d3b080fd83b5dbd2a593a0713b210092920d510cf471d221b82f9f7d"
+}
