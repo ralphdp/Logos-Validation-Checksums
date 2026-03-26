@@ -10,142 +10,142 @@ export const MANIFEST = {
         {
             "id": "bsd-conjecture-paper",
             "label": "BSD CONJECTURE PAPER",
-            "hash": "bfd7aaf918d26fcd56f3456ac220a047eec9716ac7121d22932a76574f65a0eb"
+            "hash": "4d992f10f7e80e3e1f94323f1267d21c08226b0ec8dd47093dd52fd19bb83c3b"
         },
         {
             "id": "chaos-determinism-paper",
             "label": "CHAOS DETERMINISM PAPER",
-            "hash": "5a8925874e1552e8325405f86e4cbf609ee5db210d381206ccf70425fe55f3f0"
+            "hash": "0bb5dc5aac6b6d2f7119933c0bcf49340d5ea8d7df6ca57265f23adac1bf6382"
         },
         {
             "id": "cognitive-sovereignty-mesh-paper",
             "label": "COGNITIVE SOVEREIGNTY MESH PAPER",
-            "hash": "6141285b3a081432736f8b1fcbee0f345f900f7468105758d2ec8768790d4d3f"
+            "hash": "e3f5d0718ba1a354b53ec7d9df08608e018c161f3d15f43c578153bfca77f9b6"
         },
         {
             "id": "collatz-attractor-paper",
             "label": "COLLATZ ATTRACTOR PAPER",
-            "hash": "e62a508c596859b0be5835d18eb119aa054c3741bfe0a481ec162b9d5cc6a74c"
+            "hash": "75f2b4ebc9ab6246e72d008d33fcde0b603b9b690dd106c60f2262c6b892a685"
         },
         {
             "id": "computational-theology-paper",
             "label": "COMPUTATIONAL THEOLOGY PAPER",
-            "hash": "71e57f2777255cca995ef5ab3440dfb56e1af5815e30a1cf6641e277ade20d56"
+            "hash": "0ca0e5ff8abc893825fd88b2d01d6fe4e80bf603f73670fd7bb0e0f06317cf3d"
         },
         {
             "id": "consciousness-paper",
             "label": "CONSCIOUSNESS PAPER",
-            "hash": "c6ae468f08877a6367f4b3a664ef6ae52d758e264490fca2be0a188e07e87d21"
+            "hash": "cd3031566e61ae6de28450d9e21cd406cbf10ecc00db39fe15426b1a3afc4b6a"
         },
         {
             "id": "continuum-logos-hierarchy-paper",
             "label": "CONTINUUM LOGOS HIERARCHY PAPER",
-            "hash": "99b3d1e56b80b7c1a16a6e200135971a7af6c65eb1f006d29a006ab5082ae69d"
+            "hash": "76b1de326fbd0e41fcb496f21e8c8705d291197fd94274ce0f654ff00a680eca"
         },
         {
             "id": "cosmological-master-equation-paper",
             "label": "COSMOLOGICAL MASTER EQUATION PAPER",
-            "hash": "485f40cab28529fd62db26b467ae26e41b24cc2bded68f8269cf594ad52d8075"
+            "hash": "9086928abb1bb6bd317fdc63a7017d09b27536d41ccdb8f7ed40cb4636fd0412"
         },
         {
             "id": "cosmological-parsimony-paper",
             "label": "COSMOLOGICAL PARSIMONY PAPER",
-            "hash": "1f73c2ca082311ddb160cb9dce86b4e023c8a4ca10175eda7705075e2cee5bdc"
+            "hash": "b0c3e5a78056af1abc6454ac498d4b35cfb2d3bba46c6c1235848770babd141c"
         },
         {
             "id": "discrete-frequency-divider-paper",
             "label": "DISCRETE FREQUENCY DIVIDER PAPER",
-            "hash": "bb6e27a89d826b5f2fa1c47c9635e2f323606b771dc7bc491cc660aa5a39019d"
+            "hash": "572060303bd8999babc3a0fcc4e1b207febc8d0f5fac54e98943090a210c390b"
         },
         {
             "id": "divine-concurrency-paper",
             "label": "DIVINE CONCURRENCY PAPER",
-            "hash": "217d9d6772dd954b14d1272c83584285bcab06276225fba21b8b79943d842acd"
+            "hash": "1401e199c82441cdb288d6fbd4fab003ff126343f2443b509ca10fb96c77a1e8"
         },
         {
             "id": "e8-kissing-number-holographic-paper",
             "label": "E8 KISSING NUMBER HOLOGRAPHIC PAPER",
-            "hash": "3380abe2442c9b158583c7f390f4309491e440a698ec21a9ec92267b218876e9"
+            "hash": "f7f9259b1b963fc72a5ec27219fc04fa0e67eaaacd6ed2c7fefc12f773af5143"
         },
         {
             "id": "epistemological-triage-paper",
             "label": "EPISTEMOLOGICAL TRIAGE PAPER",
-            "hash": "c9bae7f908e8d022405477fa4a38f30aa52c0a17b0e2fa5f3589990210b0074f"
+            "hash": "690b557bfff6d6ad24b2ffa1695b1bb47536e42a0a1a6e5673f6a4c8531d7828"
         },
         {
             "id": "free-will-paper",
             "label": "FREE WILL PAPER",
-            "hash": "233f02f172f9cfd6babbbc23f5bd5337289ad3138bee4ec7637758e475ad2306"
+            "hash": "3c007b81e2a3ff83209994378acfeb3bf32ab8a749ea0f2c823b26f2ef60a0cb"
         },
         {
             "id": "generational-lineage-os-paper",
             "label": "GENERATIONAL LINEAGE OS PAPER",
-            "hash": "9a8293584c6b88e27c2516b8ea3d57333dd2515f58a4dcc41837732759a263d2"
+            "hash": "17a590db5f0a58259306151668936b219e5435d62efb1ff9b5ca30077ca8569a"
         },
         {
             "id": "grace-protocol-dual-track-paper",
             "label": "GRACE PROTOCOL DUAL TRACK PAPER",
-            "hash": "5c9d1b121affa7ab87a65f5f56e9cab445de9633684c8bf16256e6e5d16548b4"
+            "hash": "4e12e64f147734a6e04d8596a4a5d4f377c230180a1ac1f598560b825d7b31c1"
         },
         {
             "id": "gradient-transport-destiny-paper",
             "label": "GRADIENT TRANSPORT DESTINY PAPER",
-            "hash": "9e1c249c709cc1cd6f1f0f08a3fef05aa09dd8fc33ca114991e8ce2f12f3dd2b"
+            "hash": "9216ade00848b019b77ef35c79befb80fda27b6d5f2f2076bf82b63f0e78b98e"
         },
         {
             "id": "hodge-conjecture-paper",
             "label": "HODGE CONJECTURE PAPER",
-            "hash": "5fc7ba266a13be7a7094f5dd8479c3de11d2845917445dcc9c9c9a15fe355434"
+            "hash": "04e40a4a70e7ad80f6d02f45684358927aa8ace4e7056466f93c244c24f50ac6"
         },
         {
             "id": "information-theoretic-gravity-paper",
             "label": "INFORMATION THEORETIC GRAVITY PAPER",
-            "hash": "6892d095a2bef9d4d5c5505785bcd5733ea781e1f671f70970332bd6856340b2"
+            "hash": "43c184920f8449ad59e6a8fac0f18ddfa599813ad4e4d94a31f29c9ed5440165"
         },
         {
             "id": "invariant-destiny-subspace-paper",
             "label": "INVARIANT DESTINY SUBSPACE PAPER",
-            "hash": "af78f45890bfedf31363afe43934b51bb7684a1ec1dd4c1835ed0220adbc137f"
+            "hash": "dd3130475ca2568d83c4101358cbfda01b0d979a10da264a6f78a3e5c8e356c0"
         },
         {
             "id": "isomorphic-hardware-tethers-paper",
             "label": "ISOMORPHIC HARDWARE TETHERS PAPER",
-            "hash": "360cd67232939f0b4c7cd2b48600b6023d338d2ce9421e2df80ce698ba0154c5"
+            "hash": "d27a80a61667ae43d84ba70fea5a27952e61117ec3488347debf2e503efee69d"
         },
         {
             "id": "multitime-transport-paper",
             "label": "MULTITIME TRANSPORT PAPER",
-            "hash": "87b7ab9d9a624fcbeedc14036b0dcbf43b1a49bbdf926e1f768b4dc91ee84000"
+            "hash": "c10a39507c4207d7964e38a53705307858983e903e3b3aa17b381cb8c28fe344"
         },
         {
             "id": "navier-stokes-paper",
             "label": "NAVIER STOKES PAPER",
-            "hash": "5822bbb71c326cdad7fc5dcc5ad216f589d080db2ffeb600f72da508973b519b"
+            "hash": "0c7b95f4b1220b97291bba35f9cdf80405a27ec3847ff34c3dfc25a23bc0bf88"
         },
         {
             "id": "nile-protocol-distributed-grid-paper",
             "label": "NILE PROTOCOL DISTRIBUTED GRID PAPER",
-            "hash": "c6ca936f43f52ac797d40036c2bc00c66c7526d299f84004a47f83304beeb14d"
+            "hash": "039baf1e422653a7d3f3c896c08260565454754b337d548cf61d08e5167cb467"
         },
         {
             "id": "o1-validation-schema-caching-paper",
             "label": "O1 VALIDATION SCHEMA CACHING PAPER",
-            "hash": "c8bdcf55e238b273eee7cd7802e63baecd4711b3ce2265fc013f16c5ef5863f0"
+            "hash": "ad312ff586138b657f13bbf40857860518f9697f3439d4bc13856bff51294b0d"
         },
         {
             "id": "p-vs-np-paper",
             "label": "P VS NP PAPER",
-            "hash": "906d5ff0b8c893daf42b57b27e96b4bb7fe59b44c9fdf4b8831acfbb5a131ee0"
+            "hash": "77441afd223f2cb76cfc16125aa5da0cc0b2262167521e8631ca036387d4ab8a"
         },
         {
             "id": "quantum-gravity-paper",
             "label": "QUANTUM GRAVITY PAPER",
-            "hash": "fd33fd3496778a6971f13a4e03fb69c628e9767b4b5700fed6a082c34df3e700"
+            "hash": "816641f54c73d4d0ab95da9d8e3e6138ec8ac411ea0567210506befcd213f414"
         },
         {
             "id": "resurrection-protocol-paper",
             "label": "RESURRECTION PROTOCOL PAPER",
-            "hash": "5e11d03aeacc838dbc4f5f1930792cf4ef0cfa964358301d5492a91d72e91582"
+            "hash": "03195f1cc198f3b993634aae4ef8dff515fc2b32bd580ff32570c1e7f82a5612"
         },
         {
             "id": "riemann-hypothesis-paper",
@@ -155,47 +155,47 @@ export const MANIFEST = {
         {
             "id": "simulation-hypothesis-paper",
             "label": "SIMULATION HYPOTHESIS PAPER",
-            "hash": "38c7f3ce2a507ae7435066021d971f94ac2c8a2efbf6703cc7dbfe4ef9bf10bd"
+            "hash": "8573848e47f10ccd573674d016eafb7d196605d4b9b7ea8b75bd278d4d5e46ad"
         },
         {
             "id": "spectral-parity-clock-cycles-paper",
             "label": "SPECTRAL PARITY CLOCK CYCLES PAPER",
-            "hash": "0787895cb2b46b01a9495f23a8f297274011bc8e386bbf636be57cbc7be12569"
+            "hash": "5bfd31781a19e05e6211332cc00799b5b0c117b2dc4b1c906d6b03226c47c427"
         },
         {
             "id": "stochastic-destiny-paper",
             "label": "STOCHASTIC DESTINY PAPER",
-            "hash": "c26ddb091868a2a0d716efa258c7b55dd942c66f29c5f08173b6b1164a06060c"
+            "hash": "3c7de5080af521d93daca5f26279bbf2823101d0ce37f1baa2330399688b586f"
         },
         {
             "id": "subtractive-architecture-paper",
             "label": "SUBTRACTIVE ARCHITECTURE PAPER",
-            "hash": "552e55bd0b452646eb6ce1a30122bfb48344dadc3f8a16a13f6e392db0ca497e"
+            "hash": "72fbb54727edbb31221ff30c49b17350d8915dd4847da3d8d72a655480f12e56"
         },
         {
             "id": "theodicy-paper",
             "label": "THEODICY PAPER",
-            "hash": "478a38fbac6714b4bafe850cf4c8ad95d6ac9698f7543bf8f70c5f0c7bf7f4b8"
+            "hash": "4cb7ec8c34a8f6f6a9c664da0de7c5e5afc3c2fe2f350db31cecc751e60558e8"
         },
         {
             "id": "thermodynamic-morality-paper",
             "label": "THERMODYNAMIC MORALITY PAPER",
-            "hash": "543dbca5c61fa248b4e5103da260e5aeabf945a6389f22d661afe21648833dd0"
+            "hash": "07624832b1a038290ff649f1e31c0545720f97bb76cdd04bf6923a062b596950"
         },
         {
             "id": "unitary-singularity-paper",
             "label": "UNITARY SINGULARITY PAPER",
-            "hash": "507ef7c6a7a83409eb6d1ea4a0732c6e4371b92311e0a6de75d462b13e4234be"
+            "hash": "dfdeb122b5e898b316193ab0f1c4ef50472435b5bcabed92fa03540ae4eac171"
         },
         {
             "id": "unknotting-grace-paper",
             "label": "UNKNOTTING GRACE PAPER",
-            "hash": "d34cf4ba1663237364017a7d234270738223e01c1977ad07678d672f10100a79"
+            "hash": "73c09051bda2c6999391377d0e15fde3af3c64bcdc6fa436d5aa168e1c0082cf"
         },
         {
             "id": "yang-mills-mass-gap-paper",
             "label": "YANG MILLS MASS GAP PAPER",
-            "hash": "5b8c794dad9994842485df762344a4d68761fd9ee7aa60ec37013f0b526bdf82"
+            "hash": "f9fd1e85f2c25a61beac4a23bfa3ca6edd03f62de086267398af5bdeb6cfac5e"
         }
     ]
 };
