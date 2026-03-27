@@ -36,3 +36,4 @@ ad312ff586138b657f13bbf40857860518f9697f3439d4bc13856bff51294b0d  [SEALED_PDF] o
 dfdeb122b5e898b316193ab0f1c4ef50472435b5bcabed92fa03540ae4eac171  [SEALED_PDF] unitary-singularity-paper/main.pdf
 73c09051bda2c6999391377d0e15fde3af3c64bcdc6fa436d5aa168e1c0082cf  [SEALED_PDF] unknotting-grace-paper/main.pdf
 f9fd1e85f2c25a61beac4a23bfa3ca6edd03f62de086267398af5bdeb6cfac5e  [SEALED_PDF] yang-mills-mass-gap-paper/main.pdf
+a7e06dbbcad8a6e2d84f20dcbdd2d66d09a53cad55cf86545302e0f4874936ef  /03_whitepapers/wp-004-computational-theology-manifesto.md
