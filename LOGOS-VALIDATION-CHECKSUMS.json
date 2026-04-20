@@ -1,71 +1,201 @@
 {
-  "content/analysis/chaos-theory.md": "ba7836595dfbb2b43ebf75b65b31d1b3f436d707d159b28e812428c97df854b7",
-  "content/analysis/extraordinary-claims-triage.md": "ef86a7949a5dc0b3cf8df15bfd7b2b5d9426e938ec01de85ea053ba6b547f359",
-  "content/analysis/free-will-computational-requirement.md": "4b9e354a1cca6a8cbffe40a0ac80d2afc369d4cd36c2944f08a181b47eb096dc",
-  "content/analysis/god-equation.md": "fc93f5ab4284ba91dcebb68dc0be3cc6bd734b512075d68f986c3d634903d3e2",
-  "content/analysis/hardware-vs-software.md": "0b264d0c3fa1c6be2dc80ad72d1205c43884960fe5c2899feef42376ba762aad",
-  "content/analysis/holographic-mass.md": "df1b4c9092d6d5348fc964ccf1a23fffe44feb3ee79e0f4a6870e95bfe953d5f",
-  "content/analysis/information-theory-of-gravity.md": "b8841f9fdab2707f7990b114ed303c3fda601b4841240ae5c3f13628d3ca5995",
-  "content/analysis/informational-realism.md": "664840cd378789d3581aa5f79d44b05b0c45ea0b8d270cb484b5f08d70d3b112",
-  "content/analysis/quantum-founders-consciousness-engine.md": "140597c7d4a8c4953503dcd55391a61207fee694e5613a062c37ca0bb7bd1486",
-  "content/analysis/the-continuum.md": "d10684cfc159ee336bd14bebeb7797732e22e8e352c95fc5ec992f650813056b",
-  "content/analysis/the-logout-protocol.md": "17c51412a867c6f3e12323e6fc2fcd1dd559925abba1716e421a98abccdcedce",
-  "content/audit/fifteen-year-audit.md": "b33fa7d2de1609f767ab397a3b853f21cefacdcc4ffda2e2adcbef83cf851b3d",
-  "content/audit/gravity-nullification-audit.md": "4b549d05809102031b716ac8991bd05e4d79eb1cf037ca75e3765e308ec46c31",
-  "content/audit/logos-heart-audit.md": "a1e8d4224611acb3bfc1d6d53060e56a7499b3ec9aed48c78cad0a7c0029afad",
-  "content/audit/mit-dmobius3-origin-audit.md": "b82c04ad0e5b02db9da0a1b13b925bb111076b6b6227f7f7cc689640325d43bc",
-  "content/audit/social-media-audit.md": "6945f84ba4580de94b41b232a1ef1f712df7ef69b08dcdff47e70aa7d5823d87",
-  "content/formal-proof/bsd-conjecture-proof.md": "5d9349aa3e06a8a5c765c05ac61eb0715cf56aaa8d84e477114b4b85ee6bd3bc",
-  "content/formal-proof/eucharistic-proof.md": "6ceb275fa117b7d8d9b43e865d31168aa75788520d536493022defaccc3e9ce4",
-  "content/formal-proof/free-will-paradox.md": "d3e025b9041f9faba6ffb9a359abb332f0384b551254cca8a60dec485091a9e1",
-  "content/formal-proof/identity-vector-stabilization.md": "da229608c3f652584c6a5a3ec24feb17204074b3d8fa86f8b7e6b3522ec16aab",
-  "content/formal-proof/navier-stokes-proof.md": "177bc569ef460b569d3db8a44697b489fee2dc9496b34c49519fc1dff7af8bf5",
-  "content/formal-proof/p-vs-np-proof.md": "f16cfcb9eaac9dacdb580f807853cba0bed43dd9186ef0be724bb4bf245fec74",
-  "content/formal-proof/the-16968-day-proof.md": "780a8d10f2d1719c071f387e6fb6e25c5f8658c22e226e3ed6e97601257cbd30",
-  "content/formal-proof/uap-paradox.md": "5d9cda32a59c19dac8cdfdebcd68ae8971376eb520bf46eb0fa9f7b45f600c16",
-  "content/research/bsd-conjecture-paper.md": "347ee49131ede03016af89323da2bf8cfa150eebc9ce8d7968665b7a463baecd",
-  "content/research/chaos-determinism-paper.md": "a70077a5bace19ed33eaa3e1e7d52c48c75228cc38988deb102f312a78076297",
-  "content/research/cognitive-sovereignty-mesh-paper.md": "afa5708a9abb02628ba8ff106725e86c196a21be29ab1d9da22916c06e869fe1",
-  "content/research/collatz-attractor-paper.md": "4fa54749fef575cb800910b01596abee28ccc051bf6067cdff509e137f3d7386",
-  "content/research/computational-theology-paper.md": "6e0e583675f8cbee5ed82ade44bd611e368ea509f40fea0415da3fe18e89febf",
-  "content/research/consciousness-paper.md": "0d8374e2a621d2bb879872943e96340bbaa41412545e39ffeebd067fbdfd130a",
-  "content/research/continuum-logos-hierarchy-paper.md": "a524d5d8fbe6ac17ed495c6253f3c3851c67a2ad3175fade8f7b242b66f8864d",
-  "content/research/cosmological-parsimony-paper.md": "0689b68b9c6e68e7e35517989a3d563811a5de713a1660cde640c0484aabe4a7",
-  "content/research/discrete-frequency-divider-paper.md": "f5ab964aa2a162da45b900b866bc31e7603dde9886d742539e39d5419b4137f4",
-  "content/research/divine-concurrency-paper.md": "3de26a8437d76f12d61cf01c7b16e6b4e750099ef1a3cf8650bfceeda46ae78c",
-  "content/research/e8-kissing-number-holographic-paper.md": "51105de02ef02393d5d7ce238c7512c5715c8df9221d685b0b4a2e78e4ec4d2a",
-  "content/research/epistemological-triage-paper.md": "b1f0dc05c1a5d81a65d2718103dd3f6f70f05ca48d97805b9c03bb06b98caa44",
-  "content/research/free-will-paper.md": "bd7b8038721ca63c2ea1ec2a89478d86729b698a54de545f0273e70fc488f6d9",
-  "content/research/grace-protocol-dual-track-paper.md": "632200b6df1193dc1107d328e229a8f7aabd302af9f57e49efd25dcbfb65ce5d",
-  "content/research/gradient-transport-destiny-paper.md": "c91edb91b47a3bb07f70fffea94b23bee2ef12494ba3a4be45fb59bb8ffc9941",
-  "content/research/hodge-conjecture-paper.md": "cadb21ca23f148c2dd84131b3a9dcd1d71388dfd6fb24e9f4bedfd8058873a7b",
-  "content/research/information-theoretic-gravity-paper.md": "87dfbcd07c20976f92e439f949e36a51a3e8661187fa065826c22ba4de2b4d4e",
-  "content/research/invariant-destiny-subspace-paper.md": "eee76436e459fec15a651a7964188211887a917a7ff04ad5d53b56d3d6fdf8f3",
-  "content/research/multitime-transport-paper.md": "39590159cd2ecf298b9208f382b96f76a79ed8eec3e162e25139abd37761a461",
-  "content/research/navier-stokes-paper.md": "0c6363cda67522a0541169800e97d9502a75aff321558d903791fe68c0f38c1f",
-  "content/research/nile-protocol-distributed-grid-paper.md": "27fbfb2fe9bd7020bee03b1d36f34683627a5de74190018b94654cc2ad93ccf4",
-  "content/research/p-vs-np-paper.md": "52e074fa0e175730362ab964600454bdd040abc7ad9e4af51f5560799ebd94cc",
-  "content/research/quantum-gravity-paper.md": "0a4df6b15236a24c854eaeffbe319b3093c0e45fed44f3e3d12a4c0a39dcf2b8",
-  "content/research/resurrection-protocol-paper.md": "a64ed77063a671d3db4fbacb2b60cd8d7a4f2c99a33679c0aed64578cf27d072",
-  "content/research/riemann-hypothesis-paper.md": "a4812690d699fc736ae198aa34d72261b92e06c5d308feed614f0f90e15876f4",
-  "content/research/simulation-hypothesis-paper.md": "4f885f7d64a408dbd201dade0e6b6baa63728882c6c692a61dd651b1cf62a888",
-  "content/research/spectral-parity-clock-cycles-paper.md": "a6247086898f0758eb2fc3abb8b0a7e9fd2973c021e866ac9b4f6bcfa5bd9644",
-  "content/research/stochastic-destiny-paper.md": "bca8bcf2318f378ed03cd2c14a952cea755b61cd6fa422f52eec7513343ecd2a",
-  "content/research/subtractive-architecture-paper.md": "b454fe1e34a57a3f12a4271966f1b8d624d1f4b4f0615da15d9606b66af6594d",
-  "content/research/theodicy-paper.md": "b9723ca1f32c5e27c5783f78c83a06bfc71094de33f181d891878f51f79af0a4",
-  "content/research/unitary-singularity-paper.md": "fb7780e96255559ef4bd3f820696b12f1d1bf7653170b4d25437b9fd89169cc4",
-  "content/research/unknotting-grace-paper.md": "63471237ae4b846b3e565b8e0812199657aa36b996d690cf1b022d154ef3fdaa",
-  "content/research/yang-mills-mass-gap-paper.md": "1fa851c576193cd7268d1d7579fae13070101398d50d895cd39053055ff1a4f2",
-  "content/white-paper/architectural-vision-15-year-standard.md": "1d325d2d246ce24fffb13d43e941de6aec36329510a95fe27d6db7db1f1c4910",
-  "content/white-paper/black-hole-paradox.md": "57d89cbd38b5187fe97d90efc933b11e2839a9e447a9028af78a504927e21909",
-  "content/white-paper/consciousness-node.md": "6764ed8ca81b7140d9e5a921220a1765b05edbb43bf9479a23d6d64e955d2df4",
-  "content/white-paper/error-handling-and-evil-as-recursion.md": "2e8e6e97ece5eeca5379ce2df37144eca1dd11448d7cf5a1fd4500070a8bfc2c",
-  "content/white-paper/logos-de-paz-protocol.md": "df95e471b7ca2f379801b34163e2fcaa4e8dabbe87a983b2c03d651e45489803",
-  "content/white-paper/meaning-of-life.md": "5250a226a45941374e3e3a3301329ecd2dc397cecd5fbc353d6340d6dd577a31",
-  "content/white-paper/ninth-system.md": "3bc86c238680e177070149d6f42ee5ed5d4e09e5d1e8aeb66d6ea969e19fb4e2",
-  "content/white-paper/resurrection-protocol.md": "88734d5cf94c13cbcf8488d208cc5d83669395a50ef462297c774fdf899061cd",
-  "content/white-paper/riemann-frequency-proof.md": "678ca619b7446531caec20845e8b0a3dd62eb2f1aee4e13e4fb6bf2c9f7639c8",
-  "content/white-paper/theodicy-protocol.md": "a2301fa7e5ff723f69bbd1e8c2bc740131c14cbbc7fc3c5e0023635850a36264",
-  "content/white-paper/thermodynamic-kill-conditions.md": "5fbdf9761db15734d6dd100fb255dff36100f968df6558a526f27d2729f4576c",
-  "content/white-paper/unitary-singularity.md": "dc087ab0ca5f11921d4f0225cab404660c88427a8cc36fa6f3bc9742c2ce3be1"
+  "version": "6.8.5",
+  "genesisDate": "2026-02-11",
+  "auditor": {
+    "name": "Rafael D. De Paz",
+    "node": "606",
+    "publicKey": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMY7u...LGS-AUDITOR-01"
+  },
+  "registry": [
+    {
+      "id": "bsd-conjecture-paper",
+      "label": "BSD CONJECTURE PAPER",
+      "hash": "347ee49131ede03016af89323da2bf8cfa150eebc9ce8d7968665b7a463baecd"
+    },
+    {
+      "id": "chaos-determinism-paper",
+      "label": "CHAOS DETERMINISM PAPER",
+      "hash": "a70077a5bace19ed33eaa3e1e7d52c48c75228cc38988deb102f312a78076297"
+    },
+    {
+      "id": "cognitive-sovereignty-mesh-paper",
+      "label": "COGNITIVE SOVEREIGNTY MESH PAPER",
+      "hash": "afa5708a9abb02628ba8ff106725e86c196a21be29ab1d9da22916c06e869fe1"
+    },
+    {
+      "id": "collatz-attractor-paper",
+      "label": "COLLATZ ATTRACTOR PAPER",
+      "hash": "4fa54749fef575cb800910b01596abee28ccc051bf6067cdff509e137f3d7386"
+    },
+    {
+      "id": "computational-theology-paper",
+      "label": "COMPUTATIONAL THEOLOGY PAPER",
+      "hash": "6e0e583675f8cbee5ed82ade44bd611e368ea509f40fea0415da3fe18e89febf"
+    },
+    {
+      "id": "consciousness-paper",
+      "label": "CONSCIOUSNESS PAPER",
+      "hash": "0d8374e2a621d2bb879872943e96340bbaa41412545e39ffeebd067fbdfd130a"
+    },
+    {
+      "id": "continuum-logos-hierarchy-paper",
+      "label": "CONTINUUM LOGOS HIERARCHY PAPER",
+      "hash": "a524d5d8fbe6ac17ed495c6253f3c3851c67a2ad3175fade8f7b242b66f8864d"
+    },
+    {
+      "id": "cosmological-master-equation-paper",
+      "label": "COSMOLOGICAL MASTER EQUATION PAPER",
+      "hash": "a1b54ddabb83b76b3fdf28f956fe4f3c97fb55461408e7a3a8d197c73b68948e"
+    },
+    {
+      "id": "cosmological-parsimony-paper",
+      "label": "COSMOLOGICAL PARSIMONY PAPER",
+      "hash": "0689b68b9c6e68e7e35517989a3d563811a5de713a1660cde640c0484aabe4a7"
+    },
+    {
+      "id": "discrete-frequency-divider-paper",
+      "label": "DISCRETE FREQUENCY DIVIDER PAPER",
+      "hash": "f5ab964aa2a162da45b900b866bc31e7603dde9886d742539e39d5419b4137f4"
+    },
+    {
+      "id": "divine-concurrency-paper",
+      "label": "DIVINE CONCURRENCY PAPER",
+      "hash": "3de26a8437d76f12d61cf01c7b16e6b4e750099ef1a3cf8650bfceeda46ae78c"
+    },
+    {
+      "id": "e8-kissing-number-holographic-paper",
+      "label": "E8 KISSING NUMBER HOLOGRAPHIC PAPER",
+      "hash": "51105de02ef02393d5d7ce238c7512c5715c8df9221d685b0b4a2e78e4ec4d2a"
+    },
+    {
+      "id": "epistemological-triage-paper",
+      "label": "EPISTEMOLOGICAL TRIAGE PAPER",
+      "hash": "b1f0dc05c1a5d81a65d2718103dd3f6f70f05ca48d97805b9c03bb06b98caa44"
+    },
+    {
+      "id": "free-will-paper",
+      "label": "FREE WILL PAPER",
+      "hash": "bd7b8038721ca63c2ea1ec2a89478d86729b698a54de545f0273e70fc488f6d9"
+    },
+    {
+      "id": "generational-lineage-os-paper",
+      "label": "GENERATIONAL LINEAGE OS PAPER",
+      "hash": "89396fe9f4f473a43a83f9238bf5cc979c04562a4e6d4965a31292aad7182824"
+    },
+    {
+      "id": "grace-protocol-dual-track-paper",
+      "label": "GRACE PROTOCOL DUAL TRACK PAPER",
+      "hash": "632200b6df1193dc1107d328e229a8f7aabd302af9f57e49efd25dcbfb65ce5d"
+    },
+    {
+      "id": "gradient-transport-destiny-paper",
+      "label": "GRADIENT TRANSPORT DESTINY PAPER",
+      "hash": "c91edb91b47a3bb07f70fffea94b23bee2ef12494ba3a4be45fb59bb8ffc9941"
+    },
+    {
+      "id": "hodge-conjecture-paper",
+      "label": "HODGE CONJECTURE PAPER",
+      "hash": "cadb21ca23f148c2dd84131b3a9dcd1d71388dfd6fb24e9f4bedfd8058873a7b"
+    },
+    {
+      "id": "information-theoretic-gravity-paper",
+      "label": "INFORMATION THEORETIC GRAVITY PAPER",
+      "hash": "87dfbcd07c20976f92e439f949e36a51a3e8661187fa065826c22ba4de2b4d4e"
+    },
+    {
+      "id": "invariant-destiny-subspace-paper",
+      "label": "INVARIANT DESTINY SUBSPACE PAPER",
+      "hash": "eee76436e459fec15a651a7964188211887a917a7ff04ad5d53b56d3d6fdf8f3"
+    },
+    {
+      "id": "isomorphic-hardware-tethers-paper",
+      "label": "ISOMORPHIC HARDWARE TETHERS PAPER",
+      "hash": "603a239db3cdaed7ee7f3f525116c558cea87029174a3ef4fe87e4ff97ddd65e"
+    },
+    {
+      "id": "multitime-transport-paper",
+      "label": "MULTITIME TRANSPORT PAPER",
+      "hash": "39590159cd2ecf298b9208f382b96f76a79ed8eec3e162e25139abd37761a461"
+    },
+    {
+      "id": "navier-stokes-paper",
+      "label": "NAVIER STOKES PAPER",
+      "hash": "0c6363cda67522a0541169800e97d9502a75aff321558d903791fe68c0f38c1f"
+    },
+    {
+      "id": "nile-protocol-distributed-grid-paper",
+      "label": "NILE PROTOCOL DISTRIBUTED GRID PAPER",
+      "hash": "27fbfb2fe9bd7020bee03b1d36f34683627a5de74190018b94654cc2ad93ccf4"
+    },
+    {
+      "id": "o1-validation-schema-caching-paper",
+      "label": "O1 VALIDATION SCHEMA CACHING PAPER",
+      "hash": "28b4771c06c7cc5e96a5104937fd2a6fdb135c7619d75512a46406208c78d261"
+    },
+    {
+      "id": "p-vs-np-paper",
+      "label": "P VS NP PAPER",
+      "hash": "52e074fa0e175730362ab964600454bdd040abc7ad9e4af51f5560799ebd94cc"
+    },
+    {
+      "id": "quantum-gravity-paper",
+      "label": "QUANTUM GRAVITY PAPER",
+      "hash": "0a4df6b15236a24c854eaeffbe319b3093c0e45fed44f3e3d12a4c0a39dcf2b8"
+    },
+    {
+      "id": "resurrection-protocol-paper",
+      "label": "RESURRECTION PROTOCOL PAPER",
+      "hash": "a64ed77063a671d3db4fbacb2b60cd8d7a4f2c99a33679c0aed64578cf27d072"
+    },
+    {
+      "id": "riemann-hypothesis-paper",
+      "label": "RIEMANN HYPOTHESIS PAPER",
+      "hash": "a4812690d699fc736ae198aa34d72261b92e06c5d308feed614f0f90e15876f4"
+    },
+    {
+      "id": "simulation-hypothesis-paper",
+      "label": "SIMULATION HYPOTHESIS PAPER",
+      "hash": "4f885f7d64a408dbd201dade0e6b6baa63728882c6c692a61dd651b1cf62a888"
+    },
+    {
+      "id": "spectral-parity-clock-cycles-paper",
+      "label": "SPECTRAL PARITY CLOCK CYCLES PAPER",
+      "hash": "a6247086898f0758eb2fc3abb8b0a7e9fd2973c021e866ac9b4f6bcfa5bd9644"
+    },
+    {
+      "id": "stochastic-destiny-paper",
+      "label": "STOCHASTIC DESTINY PAPER",
+      "hash": "bca8bcf2318f378ed03cd2c14a952cea755b61cd6fa422f52eec7513343ecd2a"
+    },
+    {
+      "id": "subtractive-architecture-paper",
+      "label": "SUBTRACTIVE ARCHITECTURE PAPER",
+      "hash": "b454fe1e34a57a3f12a4271966f1b8d624d1f4b4f0615da15d9606b66af6594d"
+    },
+    {
+      "id": "theodicy-paper",
+      "label": "THEODICY PAPER",
+      "hash": "b9723ca1f32c5e27c5783f78c83a06bfc71094de33f181d891878f51f79af0a4"
+    },
+    {
+      "id": "thermodynamic-morality-paper",
+      "label": "THERMODYNAMIC MORALITY PAPER",
+      "hash": "c688e84f9c2c12114be8cf7daf1b6c7985e3871f6e2221906566add9e529aa09"
+    },
+    {
+      "id": "unitary-singularity-paper",
+      "label": "UNITARY SINGULARITY PAPER",
+      "hash": "fb7780e96255559ef4bd3f820696b12f1d1bf7653170b4d25437b9fd89169cc4"
+    },
+    {
+      "id": "unknotting-grace-paper",
+      "label": "UNKNOTTING GRACE PAPER",
+      "hash": "63471237ae4b846b3e565b8e0812199657aa36b996d690cf1b022d154ef3fdaa"
+    },
+    {
+      "id": "yang-mills-mass-gap-paper",
+      "label": "YANG MILLS MASS GAP PAPER",
+      "hash": "1fa851c576193cd7268d1d7579fae13070101398d50d895cd39053055ff1a4f2"
+    }
+  ]
 }
